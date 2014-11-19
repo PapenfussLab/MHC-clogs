@@ -1,5 +1,10 @@
 ### cogs - MHC class I gene search tools
 
+## Authors:
+
+Tony Papenfuss, The Walter and Eliza Hall Institute of Medical Research
+Chris Davoren
+
 ## Synopsis
 
 MHC class I genes evolve by duplication and divergence. To annotate all MHC class I genes in selected jawed vertebrates
@@ -15,4 +20,4 @@ Edit the environment variables at the top of run_hmmer2_workflow.sh for your sys
 
 ## License
 
-This is published under a BY-NC license.
+This is published under the Artistic License 2.0.
