@@ -1,0 +1,21 @@
+HMMER2.0  [2.3.2]
+NAME  MHC_I_fs
+LENG  1
+ALPH  Amino
+RF    yes
+CS    no
+MAP   yes
+COM   hmmbuild -f -F /home/users/lab0605/papenfuss/MHC/hmm/custom_hmmer2/MHC_I_fs.hmm /home/users/lab0605/papenfuss/MHC/hmm/custom_hmmer2/MHC_I_fs.sto
+NSEQ  348
+DATE  Sat Aug 30 18:29:52 2014
+CKSUM 1253
+XT      -8455     -4  -1000  -1000  -8455     -4  -8455     -4 
+NULT      -4  -8455
+NULE     595  -1558     85    338   -294    453  -1158    197    249    902  -1085   -142    -21   -313     45    531    201    384  -1998   -644 
+HMM        A      C      D      E      F      G      H      I      K      L      M      N      P      Q      R      S      T      V      W      Y    
+         m->m   m->i   m->d   i->m   i->i   d->m   d->d   b->m   m->e
+         -415      *  -2000
+     1     21    248    -52    364   -429   -761    595   -331    457   -564    468    299   -698    611    134     -9    139   -203    422    -72   237
+     .      *      *      *      *      *      *      *      *      *      *      *      *      *      *      *      *      *      *      *      * 
+     -      *      *      *      *      *      *      *  -1415      0 
+//

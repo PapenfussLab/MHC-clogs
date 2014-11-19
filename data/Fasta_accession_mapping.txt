@@ -1,0 +1,60 @@
+# md_chain38	md_UT1
+# md_chain36	md_UT2
+# md_chain26	md_UT3
+# md_chain34	md_UT4
+# md_chain25	md_UT5
+# md_chain31	md_UT6
+# md_chain30	md_UT7
+# md_chain21	md_UT8
+# md_chain29	md_UT9
+# md_chain27	md_UT10
+# md_chain32	md_UT11
+# md_chain37	md_UT12
+# md_chain35	md_UT13
+# md_chain33	md_UT14
+# md_chain20	md_UT15
+# md_chain28	md_UT16
+# md_chain24	md_UT17
+
+# md_Chr4_121.30m ???
+# md_MIC1	???
+# md_MIC-like ???
+# md_ENSMODG00000024063	md_AZGP1b
+# md_ENSMODG00000028158	md_AZGP1c
+# md_ENSMODG00000027380	md_AZGP1d
+# md_ENSMODG00000029679	md_AZGP1e
+# md_ENSMODG00000015798	md_ULBP
+
+
+me_chain29	me_UT8
+me_chain31	me_UT18
+me_chain32	me_UT14
+me_chain21	me_UT15
+me_chain23	me_UT16
+me_chain26	me_UT17
+me_chain28	me_UT19
+me_chain30	me_UT20
+me_chain33	me_UT21
+
+sh_chain22	sh_UT1
+sh_chain21	sh_UT2
+sh_chain14	sh_UT8
+sh_chain13	sh_UT10
+sh_chain23	sh_UT11 
+sh_chain20	sh_UT14
+sh_chain08	sh_UT15
+sh_chain09	sh_UT16
+sh_chain11	sh_UT17
+sh_chain12	sh_UT22
+sh_chain19	sh_UT23
+sh_chain16	sh_UT24
+sh_chain17	sh_UT25
+
+oa_chain05	oa_UT1
+oa_chain07	oa_UT2
+oa_chain04	oa_UT3
+oa_chain06	oa_UT4
+oa_chain10	oa_UT5
+oa_chain09	oa_UT6
+
+oa_ENSOANG00000022751	oa_UT7

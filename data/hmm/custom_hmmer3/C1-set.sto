@@ -1,0 +1,1967 @@
+# STOCKHOLM 1.0
+
+gg_BF1                       -----.--ILTLSCRAHGFYPRPIVVSW.LKDGAV.RG.Q.D..A..Q.S
+#=GR gg_BF1               PP ........579*****************.******.**.*.*..*..*.*
+gg_BFIV21                    -----.--ILTLSCRAHGFYPRPIVVSW.LKDGAV.RG.Q.D..A..Q.S
+#=GR gg_BFIV21            PP ........579*****************.******.**.*.*..*..*.*
+ENSGALG00000024340           ---EA.NGILTLSCHAYGFYPRPIAISW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000024340   PP ...55.66789*****************.******.**.*.*..*..*.*
+ENSGALG00000027293           -----.NGILTLFCRAYGFYPWPISLSW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000027293   PP ......56679*****************.******.**.*.*..*..*.*
+ENSGALG00000029093           -----.NGILTLFCRAYGFYPWPISLSW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000029093   PP ......56679*****************.******.**.*.*..*..*.*
+ENSGALG00000024348           -----.--ILTLSCHAHGFYPRPISISW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000024348   PP ........579*****************.******.**.*.*..*..*.*
+ENSGALG00000026292           -----.--ILTLSCHAHGFYPRRIAISW.MKDSMV.QD.Q.E..T..R.W
+#=GR ENSGALG00000026292   PP ........579*****************.******.**.*.*..*..*.*
+ENSGALG00000027445           -----.--ILTLSCHAHGFYPRRIAISW.MKDSMV.QD.Q.E..T..R.W
+#=GR ENSGALG00000027445   PP ........579*****************.******.**.*.*..*..*.*
+ENSGALG00000027944           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSGALG00000027944   PP ..................................................
+ENSGALG00000029079           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSGALG00000029079   PP ..................................................
+ENSGALG00000028268           ---EA.NGNLTLSCHAHGFYPRPIAISW.MKDGMV.GD.Q.E..T..H.C
+#=GR ENSGALG00000028268   PP ...56.7889******************.******.**.*.*..*..*.*
+ENSGALG00000004617           -----.--ILTLSCRAYGFYPRPIAISW.MKDGMV.RD.Q.E..T..-.-
+#=GR ENSGALG00000004617   PP ........579*****************.****98.76.6.5..5.....
+ENSGALG00000002614           -----.DGILTLSCHAHGFYPRPIAISW.IKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000002614   PP ......55679*****************.******.**.*.*..*..*.*
+ENSGALG00000027955           -----.--ILTLSCHAHGFYPRPIAISW.MKDGMV.RD.Q.E..T..R.W
+#=GR ENSGALG00000027955   PP ........579*****************.******.**.*.*..*..*.*
+ENSGALG00000027693           -----.NGILTLSCRAYGFYPRPIAISW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000027693   PP ......56679*****************.******.**.*.*..*..*.*
+ENSGALG00000026466           -----.NGILTLSCRAYGFYPRRIAISW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000026466   PP ......56679*****************.******.**.*.*..*..*.*
+ENSGALG00000004772           -----.--ILTLSCHAHGFYPWPIAISW.MKDGMV.RD.Q.E..T..H.W
+#=GR ENSGALG00000004772   PP ........579*****************.******.**.*.*..*..*.*
+ENSGALG00000027431           -----.----------------------.------.--.-.-..-..-.W
+#=GR ENSGALG00000027431   PP .................................................1
+ENSGALG00000027045           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSGALG00000027045   PP ..................................................
+ENSGALG00000027123           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSGALG00000027123   PP ..................................................
+ENSGALG00000026145           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSGALG00000026145   PP ..................................................
+gg_CD1A1                     -----.-AQLLLVCRVTSFYPRPIAVTW.LRDGRE.VP.P.SpaL..S.T
+#=GR gg_CD1A1             PP .......6778*****************.******.*8.6.5115..6.6
+bt_BOLA__1                   --PSS.DREVTLRCWALGFYPEEISLTW.QHNGED.QT.Q.D..M..E.L
+#=GR bt_BOLA__1           PP ..456.899*******************.******.**.*.*..*..*.*
+bt_JSP.1                     ----S.GREVTLRCWALGFYPEEISLTW.QRNGED.QT.Q.D..M..E.L
+#=GR bt_JSP.1             PP ....4.899*******************.******.**.*.*..*..*.*
+bt_BOLA-NC                   --PSS.EREVTLRCWALGFYPEEISLTW.QRNGED.QI.Q.D..M..E.L
+#=GR bt_BOLA-NC           PP ..455.899*******************.******.**.*.*..*..*.*
+bt_BOLA__3                   -----.DREVTLRCWALGFYPEEISLTW.QRDGED.QT.Q.D..M..E.L
+#=GR bt_BOLA__3           PP ......789*******************.******.**.*.*..*..*.*
+ENSBTAG00000005146           ----S.GREVTLRCWALGFYPEEILLTW.QHNGED.QT.Q.D..M..E.L
+#=GR ENSBTAG00000005146   PP ....4.899*******************.******.**.*.*..*..*.*
+ENSBTAG00000007075           -----.GREVTLRCWALGFYPEEILLTW.QRDGED.QT.Q.D..M..E.L
+#=GR ENSBTAG00000007075   PP ......789*******************.******.**.*.*..*..*.*
+ENSBTAG00000012208           -----.DREVTLRCWALGFYPEEISLTW.QQDGED.QT.Q.D..M..E.L
+#=GR ENSBTAG00000012208   PP ......789*******************.******.**.*.*..*..*.*
+bt_BOLA__2                   -----.DREVTLRCWALGFYPKEITLTW.QQDGED.LT.Q.D..M..E.L
+#=GR bt_BOLA__2           PP ......789*******************.******.**.*.*..*..*.*
+bt_BT.105339                 -----.DHDITLRCWALGFYPEEISLTW.QRDRED.QT.Q.D..M..E.F
+#=GR bt_BT.105339         PP ......7889******************.******.**.*.*..*..*.*
+ENSBTAG00000008959           -----.DREVTLRCWALGFYWAEISLTW.QRDGED.QT.Q.D..M..E.V
+#=GR ENSBTAG00000008959   PP ......789*******************.******.**.*.*..9..9.9
+bt_AZGP1                     ----P.GHKRTLKCLAYDFYPRSIGLHW.TRAGDA.-Q.E.A..E..S.G
+#=GR bt_AZGP1             PP ....4.89********************.****98..6.7.7..7..7.7
+bt_MR1                       -----.PGITTLYCRAYGFYPPEISINW.MKNGEE.IF.Q.D..T..D.Y
+#=GR bt_MR1               PP ......56689*****************.******.**.*.*..*..*.*
+ENSBTAG00000004815           -----.DGGTTLRCWALGFYPQDITLSW.WLGEKK.LN.S.K..L..E.Y
+#=GR ENSBTAG00000004815   PP ......56789*****************.******.**.*.*..*..*.*
+ENSBTAG00000038619           -----.DREVTLRCWALGFYPAKISLTW.QRNGED.QT.Q.D..M..E.L
+#=GR ENSBTAG00000038619   PP ......789*******************.******.**.*.*..*..*.*
+bt_HFE                       -----.SSLTTLRCRALNFYPQNITIRW.LKDKQF.LD.A.K..E..I.K
+#=GR bt_HFE               PP ......66789*****************.******.**.9.9..9..9.9
+bt_FCGRT                     -----.---SVLTCSAFSFYPPELKLRF.LRNGLA.IG.S.G..E..I.D
+#=GR bt_FCGRT             PP .........68*****************.******.98.8.8..7..6.6
+ENSBTAG00000010166           -----.--------------PPAVNVT-.------.--.-.-..-..-.-
+#=GR ENSBTAG00000010166   PP ....................4444444.......................
+ENSBTAG00000038891           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000038891   PP ..................................................
+ENSBTAG00000024751           -----.----------------------.-----K.--.-.-..-..-.-
+#=GR ENSBTAG00000024751   PP ..................................0...............
+ENSBTAG00000047902           -----.-------CVVQGQVDGNVFLSY.HCGGTK.IQ.S.T..S..P.L
+#=GR ENSBTAG00000047902   PP .............777777777777777.777777.76.6.6..6..6.6
+ENSBTAG00000046595           -----.---------V------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000046595   PP ...............0..................................
+ENSBTAG00000048114           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000048114   PP ..................................................
+bt_ULBP3__1                  -----.----------------------.-----H.--.-.-..-..-.-
+#=GR bt_ULBP3__1          PP ..................................0...............
+ENSBTAG00000001836           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000001836   PP ..................................................
+bt_ULBP3__2                  -----.------------F---------.------.--.-.-..-..-.-
+#=GR bt_ULBP3__2          PP ..................0...............................
+ENSBTAG00000007238           -----.--------------------K-.------.--.-.-..-..-.-
+#=GR ENSBTAG00000007238   PP ..........................0.......................
+ENSBTAG00000023970           -----.-------C--------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000023970   PP .............0....................................
+bt_ULBP27                    --G--.----------------------.------.--.-.-..-..-.-
+#=GR bt_ULBP27            PP ..0...............................................
+ENSBTAG00000036061           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000036061   PP ..................................................
+ENSBTAG00000039875           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000039875   PP ..................................................
+bt_RAET1G                    -----.----------------------.------.--.-.-..-..-.-
+#=GR bt_RAET1G            PP ..................................................
+bt_PROCR                     -----.--------------P-------.------.--.-.-..-..-.-
+#=GR bt_PROCR             PP ....................0.............................
+ENSBTAG00000039444           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSBTAG00000039444   PP ..................................................
+bt_CD1A__1                   -----.-GQLTLVCHISGFYPKPIWVMW.MRGEQE.-Q.Q.G..T..Q.R
+#=GR bt_CD1A__1           PP .......5789*****************.887777..7.8.8..8..8.8
+bt_CD1E                      -----.---LLLVCHVSGFHPKPIWVMW.MRGKQK.-H.P.G..T..R.R
+#=GR bt_CD1E              PP .........579****************.877776..7.8.9..9..9.9
+ENSBTAG00000039993           -----.--HLLLVCHVSGFYPKPVRVMW.MRGEQE.-E.P.G..T..R.Q
+#=GR ENSBTAG00000039993   PP ........5689****************.988887..6.6.8..8..9.9
+bt_CD1A__2                   -----.-GQLMLVCHVSGFYPKPIWVMW.MRGEQE.-Q.Q.G..T..Q.R
+#=GR bt_CD1A__2           PP .......6789*****************.887777..7.8.8..8..8.8
+ENSBTAG00000000963           -----.---LLLVCHVSGFYPKPVRVMW.MRGEQE.-Q.P.G..T..Q.Q
+#=GR ENSBTAG00000000963   PP .........579****************.888887..6.7.8..8..8.8
+ENSBTAG00000047776           -----.---LLLVCHVSGFYPKPVWVMW.MRGEQE.-E.P.G..T..R.Q
+#=GR ENSBTAG00000047776   PP .........579****************.988887..6.6.8..8..9.9
+bt_CD1D                      -----.---LLLVCHVSGFYPKPVRVMW.MKGEQE.-E.P.G..T..R.Q
+#=GR bt_CD1D              PP .........579****************.999888..5.6.8..8..8.8
+bt_CD1B5                     -----.---LLLVCHVSGFYPKPVRVMW.MRGEQE.-Q.P.G..T..Q.Q
+#=GR bt_CD1B5             PP .........579****************.888877..6.7.9..9..9.9
+ENSBTAG00000047988           -----.---LLLVCHVSGFYPKPVRVMW.MRGEQE.-E.P.G..T..R.Q
+#=GR ENSBTAG00000047988   PP .........579****************.988887..6.6.8..8..9.9
+bt_CD1B3                     -----.---LLLVCHVSGFYPKPVRVMW.MRGEQE.-Q.P.G..T..Q.Q
+#=GR bt_CD1B3             PP .........579****************.888887..6.7.8..8..8.8
+ENSBTAG00000038426           -----.---LLLVCHVSGFYPKPVRVMW.MRGEQE.-Q.P.G..T..Q.Q
+#=GR ENSBTAG00000038426   PP .........579****************.888877..6.7.9..9..9.9
+ENSBTAG00000039189           -----.----LLVCHVSGFYPKPVRVMW.MRGEQE.-Q.P.G..T..Q.Q
+#=GR ENSBTAG00000039189   PP ..........69****************.888877..6.7.9..9..9.9
+ENSSHAG00000000117           ----P.SGEVTLQCRAQDFYPSEISLAW.LRDGEE.QH.Q.D..T..E.F
+#=GR ENSSHAG00000000117   PP ....4.789*******************.******.**.*.*..*..*.*
+sh_SAHA-I                    --STS.NGEVTLQCRAQDFYPAEISLTW.LRDGEE.QH.Q.D..T..E.F
+#=GR sh_SAHA-I            PP ..456.999*******************.******.**.*.*..*..*.*
+ENSSHAG00000002942           -----.DGKVTLQCRSQDFYPAEISLTW.LRDGEE.QH.Q.D..T..E.F
+#=GR ENSSHAG00000002942   PP ......789*******************.******.**.*.*..*..*.*
+ENSSHAG00000001982           ----S.DREVFLKCRAWGFYPSEISIIW.LKDGEE.QI.Q.D..T..E.Y
+#=GR ENSSHAG00000001982   PP ....4.78999*****************.******.**.*.*..*..*.*
+sh_MR1                       -----.---TTLICRAYGFYPPEITMTW.IKNGEL.II.Q.E..I..E.Y
+#=GR sh_MR1               PP .........69*****************.******.**.*.*..*..*.*
+sh_AZGP1                     -----.GGNLVLECLAYDFYPREIELHW.LQDGKI.QK.K.E..V..G.Q
+#=GR sh_AZGP1             PP ......5677899***************.******.99.9.9..9..9.9
+sh_FCGRT                     -----.---STLSCQAFFFFPPELELKF.FREGKP.VA.E.L..S..P.G
+#=GR sh_FCGRT             PP .........59*****************.******.**.*.*..*..*.*
+ENSSHAG00000015612           ---NP.KEIITLKCRVYNFFPGDIKIMW.YRNGDT.LS.Q.R..D..Q.E
+#=GR ENSSHAG00000015612   PP ...44.77789*****************.******.**.*.*..9..9.9
+ENSSHAG00000017227           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSSHAG00000017227   PP ..................................................
+ENSSHAG00000004293           -----.DGRVTLFCRATGFYPRSITLHW.EREGAL.GV.W.G..Q..E.S
+#=GR ENSSHAG00000004293   PP ......6789******************.****98.77.7.7..7..6.6
+sh_HFE                       ---TH.KGTITLRCQALNFSPMTITLSW.LWDGKQ.LN.Q.G..I..Q.L
+#=GR sh_HFE               PP ...45.7889******************.******.**.*.*..*..*.*
+ENSSHAG00000003889           -----.DGITTLSCSATGFYPRSILLHW.QNGKNI.IM.A.G..K..Q.S
+#=GR ENSSHAG00000003889   PP ......66789*****************.777777.77.7.7..7..7.7
+ENSSHAG00000004579           -----.DSRVTLFCRATGFYPRSITLHW.ERDGAL.GV.W.G..Q..E.S
+#=GR ENSSHAG00000004579   PP ......7889******************.*****8.77.7.7..7..7.6
+ENSSHAG00000003654           -----.-------CHLEDDIQ-------.------.--.-.-..-..-.-
+#=GR ENSSHAG00000003654   PP .............44444333.............................
+ENSSHAG00000004299           -----.EGRIILSCTATGFYPRSILLQW.KKNGEL.GV.W.G..K..E.T
+#=GR ENSSHAG00000004299   PP ......56678*****************.*****8.77.7.7..6..6.6
+ENSSHAG00000007260           ----T.EGSIILSCTATGFYPRSIQLQW.EKNGEL.GV.W.G..K.eT.S
+#=GR ENSSHAG00000007260   PP ....5.67889*****************.*****8.66.5.5..5.05.5
+ENSSHAG00000002090           -----.DGTTKLSCTATGFYPQPILLHW.KKGTDGaIW.G.K..E..S.S
+#=GR ENSSHAG00000002090   PP ......67789*****************.886654155.5.6..6..6.6
+ENSSHAG00000003088           -----.DGRVTFNCIATGFYPRSIQLLW.KKDEQL.GV.W.G..Q..E.S
+#=GR ENSSHAG00000003088   PP ......67899*****************.*****8.66.6.6..6..5.5
+sh_PROCR                     -----.----------------------.------.--.-.-..-..-.-
+#=GR sh_PROCR             PP ..................................................
+ENSSHAG00000006681           -----.NGSLIFSCLATGFYPRSILLHW.EKDGKL.GI.W.G.eE..S.S
+#=GR ENSSHAG00000006681   PP ......5677889***************.*****8.65.5.5.05..5.6
+ENSSHAG00000007033           ---GL.DGKITLFCTARGFYPRPILLHW.EKDGQM.GV.W.G..K.eT.S
+#=GR ENSSHAG00000007033   PP ...45.8899******************.*****8.66.5.5..5.05.5
+ENSSHAG00000007630           -----.PGQLKLLCHVSGFYPKLVRVTW.IKNGQE.QP.-.G..T..Q.T
+#=GR ENSSHAG00000007630   PP ......67789*****************.******.66...6..6..6.6
+cf_DLA-12                    ----S.DHEVTLRCWALGFYPAEITLTW.QRDGED.QT.Q.D..T..E.V
+#=GR cf_DLA-12            PP ....5.899*******************.******.**.*.*..*..*.*
+cf_DLA88__2                  ----S.DREVTLRCWALGFYPEEITLTW.QRDGED.QT.Q.D..T..E.V
+#=GR cf_DLA88__2          PP ....4.789*******************.******.**.*.*..*..*.*
+cf_DLA88__1                  -----.---------------SDCEVTLtCQDGED.QT.Q.D..T..E.L
+#=GR cf_DLA88__1          PP .....................5666777569****.**.*.*..*..*.*
+cf_DLA-64                    ----S.DHEVTLRCWALGFYPAEITLTW.QRDGED.QT.Q.D..T..E.V
+#=GR cf_DLA-64            PP ....4.899*******************.******.**.*.*..*..*.*
+cf_DLA-79                    -----.EHEVTLKCWALGFYPAEITLTW.QRDGED.QT.Q.D..T..E.L
+#=GR cf_DLA-79            PP ......899*******************.******.**.*.*..*..*.*
+cf_AZGP1                     -----.-GIQTLKCWVSGFYPQEIDLHW.IQADDT.-Q.E.T..K..S.G
+#=GR cf_AZGP1             PP .......5689*****************.777665..5.5.6..6..6.6
+cf_FCGRT                     -----.---SVLTCSAFSFYPPELQLRF.LRNGLA.--.A.G..S..G.E
+#=GR cf_FCGRT             PP .........68*****************.****98....7.7..7..7.8
+cf_HFE                       -----.--VTTLRCQALSFYPQNITMKW.LKDRQP.LD.AeD..V..E.P
+#=GR cf_HFE               PP ........579*****************.******.98.615..6..6.6
+cf_RAET1E                    -----.----------------------.------.--.-.-..-..-.-
+#=GR cf_RAET1E            PP ..................................................
+cf_CD1A8                     -----.SGHLRLVCHVSGFYPKPVWVMW.MRGEQE.-Q.T.G..S..Q.R
+#=GR cf_CD1A8             PP ......56778*****************.988888..5.6.7..7..8.8
+ENSCAFG00000023735           -----.--HLRLVCHVSGFYPKPVWVSW.MRGEQE.-Q.Q.G..T..L.Y
+#=GR ENSCAFG00000023735   PP ........5679****************.888877..6.7.7..7..7.7
+cf_CD1D__1                   -----.---LRLVCHVSGFHPKPVQVTW.MRGEQE.-Q.Q.G..T..Q.R
+#=GR cf_CD1D__1           PP .........579****************.887777..8.9.9..9..9.9
+cf_CD1D__2                   -----.---LRLVCHVSGFHPKPVRVTW.MRGEQE.-Q.R.G..T..R.R
+#=GR cf_CD1D__2           PP .........579****************.887777..7.7.8..8..9.9
+cf_CD1E                      -----.---LRLVCHVSGFHPKPVRVTW.MRGEQE.-Q.R.G..T..R.R
+#=GR cf_CD1E              PP .........579****************.887777..7.8.9..9..9.9
+cf_CD1A6                     -----.SDHLRLVCHVSGFYPKPVWVTW.MRGEQE.-Q.Q.G..S..W.R
+#=GR cf_CD1A6             PP ......56788*****************.887777..8.8.9..9..9.9
+cf_CD1B                      -----.---LQLVCHVSGFYPKPVWVTW.MRGEQE.-Q.Q.G..T..R.R
+#=GR cf_CD1B              PP .........579****************.887777..8.8.9..9..9.9
+hs_HLA-B                     ----S.DHEATLRCWALGFYPAEITLTW.QRDGED.QT.Q.D..T..E.L
+#=GR hs_HLA-B             PP ....4.899*******************.******.**.*.*..*..*.*
+hs_HLA-A                     ----S.DHEATLRCWALGFYPAEITLTW.QRDGED.QT.Q.D..T..E.L
+#=GR hs_HLA-A             PP ....4.899*******************.******.**.*.*..*..*.*
+hs_HLA-C                     ----S.DHEATLRCWALGFYPAEITLTW.QRDGED.QT.Q.D..T..E.L
+#=GR hs_HLA-C             PP ....3.89********************.******.**.*.*..*..*.*
+hs_HLA-G                     -----.DYEATLRCWALGFYPAEIILTW.QRDGED.QT.Q.D..V..E.L
+#=GR hs_HLA-G             PP ......5689******************.******.**.*.*..*..*.*
+hs_HLA-E                     ----S.DHEATLRCWALGFYPAEITLTW.QQDGEG.HT.Q.D..T..E.L
+#=GR hs_HLA-E             PP ....4.899*******************.******.**.*.*..*..*.*
+hs_HLA-F                     ----S.DHEATLRCWALGFYPAEITLTW.QRDGEE.QT.Q.D..T..E.L
+#=GR hs_HLA-F             PP ....4.899*******************.******.**.*.*..*..*.*
+hs_AZGP1                     --QAP.GEKKKLKCLAYDFYPGKIDVHW.TRAGEV.-Q.E.P..E..L.R
+#=GR hs_AZGP1             PP ..444.999*******************.**9985..7.7.7..8..8.8
+hs_MR1                       -----.---TALFCKAHGFYPPEIYMTW.MKNGEE.IV.Q.E..I..D.Y
+#=GR hs_MR1               PP .........6799***************.******.**.*.*..*..*.*
+hs_HFE                       -----.SSVTTLRCRALNYYPQNITMKW.LKDKQP.MD.A.K..E..F.E
+#=GR hs_HFE               PP ......56689*****************.******.**.9.9..9..9.9
+hs_FCGRT                     -----.---SVLTCSAFSFYPPELQLRF.LRNGLA.--.A.G..T..G.Q
+#=GR hs_FCGRT             PP .........68*****************.****99....6.6..6..7.7
+hs_MICA                      --EAS.EGNITVTCRASSFYPRNIILTW.RQDGVS.LS.H.D..T..Q.Q
+#=GR hs_MICA              PP ..556.8889******************.******.98.8.7..7..6.6
+hs_MICB                      ----S.EGNITVTCRASSFYPRNITLTW.RQDGVS.LS.H.N..T..Q.Q
+#=GR hs_MICB              PP ....4.67889*****************.*****9.97.6.6..5..5.5
+hs_ULBP2                     -----.----------------------.------.--.-.-..-..-.-
+#=GR hs_ULBP2             PP ..................................................
+hs_ULBP3                     -----.---------------------W.------.--.-.-..-..-.-
+#=GR hs_ULBP3             PP ...........................0......................
+hs_RAET1L                    -----.----------------------.------.--.-.-..-..-.-
+#=GR hs_RAET1L            PP ..................................................
+hs_ULBP1                     -----.----------------------.------.--.-.-..-..-.-
+#=GR hs_ULBP1             PP ..................................................
+hs_RAET1G                    -----.----------T-----------.------.--.-.-..-..-.-
+#=GR hs_RAET1G            PP ................0.................................
+hs_RAET1E                    -----.------------------NMTW.TVINHE.A-.-.-..-..-.-
+#=GR hs_RAET1E            PP ........................4444.444444.3.............
+hs_CD1A                      -----.--HLQLVCHVSGFYPKPVWVMW.MRGEQE.-Q.Q.G..T..Q.R
+#=GR hs_CD1A              PP ........678*****************.887777..8.9.9..9..9.9
+hs_PROCR                     -----.---------------------W.QADTQ-.VT.S.G..V..V.T
+#=GR hs_PROCR             PP ...........................5.44444..56.7.7..7..6.6
+hs_CD1D                      -----.---LLLVCHVSGFYPKPVWVKW.MRGEQE.-Q.Q.G..T..Q.P
+#=GR hs_CD1D              PP .........579****************.887776..8.9.*..*..*.*
+hs_CD1C                      -----.SGQLLLVCHASGFYPKPVWVTW.MRNEQE.-Q.L.G..T..K.H
+#=GR hs_CD1C              PP ......67889*****************.*****9..6.7.8..8..8.8
+hs_CD1B                      -----.---LQLVCHVSGFYPKPVWVMW.MRGEQE.-Q.Q.G..T..Q.L
+#=GR hs_CD1B              PP .........679****************.887776..8.9.*..*..*.*
+hs_CD1E                      -----.---LQLVCHVSGFYPKPVWVMW.MRGEQE.-Q.R.G..T..Q.R
+#=GR hs_CD1E              PP .........579****************.887777..7.8.9..9..9.9
+ENSACAG00000011070           --EDY.DGMETLICRVGGFYPKEIDITW.TKDGEV.WT.Q.D..V..F.H
+#=GR ENSACAG00000011070   PP ..566.7889******************.******.**.*.*..*..*.*
+ENSACAG00000006478           -KEDY.DGMETLICRVGGFYPKEIDITW.TKDGEV.WM.Q.D..V..F.H
+#=GR ENSACAG00000006478   PP .5666.8899******************.******.**.*.*..*..*.*
+ENSACAG00000017226           -KEDY.DGMETLICRVGGFYPKDIDIDW.TRDGEV.WL.Q.D..V..F.H
+#=GR ENSACAG00000017226   PP .5666.8899******************.******.**.*.*..*..*.*
+ENSACAG00000006674           -KEDY.DGMETLICRVGGFYPKDIDIDW.TRDGEV.WM.Q.D..V..F.H
+#=GR ENSACAG00000006674   PP .5666.8899******************.******.**.*.*..*..*.*
+ENSACAG00000000562           ---DY.DGMETLICRVGGFYPKEIDITW.TRDGEV.WM.Q.D..T..F.H
+#=GR ENSACAG00000000562   PP ...55.7789******************.******.**.*.*..*..*.*
+ENSACAG00000024528           -KEDY.DGMETLTCHVGGFYPKDIDI--.--DGEV.WM.Q.D..V..F.H
+#=GR ENSACAG00000024528   PP .5666.8899**************98.....79**.**.*.*..*..*.*
+ENSACAG00000023667           -KEDY.DGMETLICRVWGFYPKEIDIEW.TRDGEV.WM.Q.D..T..F.H
+#=GR ENSACAG00000023667   PP .5666.8899******************.******.**.*.*..*..*.*
+ENSACAG00000027871           ---DY.DGMETLICRVGGFYPKDIDIEW.TRDGEV.WM.Q.D..T..F.H
+#=GR ENSACAG00000027871   PP ...55.7789******************.******.**.*.*..*..*.*
+ENSACAG00000022657           ---DY.DGMETLICRVGGFYPKEIDITW.TRDGEV.WM.Q.D..T..F.H
+#=GR ENSACAG00000022657   PP ...55.7789******************.******.**.*.*..*..*.*
+ENSACAG00000022634           ---DY.DGMETLICRVGGFYPKDIDIEW.TRDGEV.WM.Q.D..T..F.H
+#=GR ENSACAG00000022634   PP ...55.7789******************.******.**.*.*..*..*.*
+ENSACAG00000011968           ----S.DGQEALICQAHGFHPREIDATW.RKGEEN.MD.H.E..T..L.R
+#=GR ENSACAG00000011968   PP ....4.77899*****************.******.*9.9.9..9..9.9
+ENSACAG00000006498           -----.GDLETLLCRAHGFYPKEIDITW.RMEGNV.ME.Q.E..T..R.R
+#=GR ENSACAG00000006498   PP ......67789*****************.******.**.*.*..*..*.*
+ENSACAG00000029516           -----.GGLETLVCHIHGFYPKDIDATW.RKDEEV.RE.Q.E..T..L.R
+#=GR ENSACAG00000029516   PP ......66789*****************.999999.98.8.8..8..8.8
+ENSACAG00000024638           -----.-GLETLLCRVHGFYPKEIDVNW.KRDGEV.WV.Q.D..T..F.S
+#=GR ENSACAG00000024638   PP .......5679*****************.******.**.*.*..*..*.*
+ENSACAG00000024081           ---DH.DGMETLICRVGGFYPKEIDIEW.TRDGEV.WT.Q.D..V..F.H
+#=GR ENSACAG00000024081   PP ...55.6789******************.******.**.*.*..*..*.*
+ENSACAG00000025947           ---DH.DGMETLICRVGGFYPKEIDIEW.TRDGEV.WT.Q.D..V..F.H
+#=GR ENSACAG00000025947   PP ...55.6789******************.******.**.*.*..*..*.*
+ENSACAG00000003088           ---DH.DGMETLICRVGGFYPKEIDIEW.TRDGEV.WT.Q.D..V..F.H
+#=GR ENSACAG00000003088   PP ...55.6788******************.******.**.*.*..*..*.*
+ENSACAG00000006471           -----.DGLKTLTCRVDGFYPKEIDAVW.KKDSEV.WE.Q.E..T..L.R
+#=GR ENSACAG00000006471   PP ......6678******************.******.**.*.*..*..*.*
+ENSACAG00000024309           ---DH.DGMETLICRVGGFYPKEIDIEW.TRDGEV.WT.Q.D..V..F.H
+#=GR ENSACAG00000024309   PP ...55.6789******************.******.**.*.*..*..*.*
+ENSACAG00000003922           -----.GSLETLICKVNGFFPKDINAFW.LKDGKI.VD.D.E..N..I.H
+#=GR ENSACAG00000003922   PP ......56689*****************.******.**.*.*..*..*.*
+ENSACAG00000000468           -----.DGEEVLTCRAYGFSPKEISVNW.VNDRDV.IT.A.G..V..V.Y
+#=GR ENSACAG00000000468   PP ......56889*****************.******.**.*.*..*..*.*
+ENSACAG00000024939           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSACAG00000024939   PP ..................................................
+ENSACAG00000025539           -----.-------------------VSW.MKKVEE.VD.P.S..Y..W.K
+#=GR ENSACAG00000025539   PP .........................788.888888.88.7.7..7..7.7
+ENSACAG00000011395           -PPAT.TDSLLLVCQVTGFYPHLINVSW.LQDEVA.LP.S.S..R..I.N
+#=GR ENSACAG00000011395   PP .4556.88999*****************.******.*9.9.9..8..7.7
+mm_H2-Q10                    ----S.EGDVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-Q10            PP ....4.7789******************.******.**.*.*..*..*.*
+mm_Gm8909                    --PRS.EDDVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_Gm8909            PP ..456.789*******************.******.**.*.*..*..*.*
+mm_H2-Q7                     -----.-GAVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-Q7             PP .......679******************.******.**.*.*..*..*.*
+mm_H2-K1                     ---RP.EDKVTLRCWALGFYPADITLTW.QLNGEE.LI.Q.D..M..E.L
+#=GR mm_H2-K1             PP ...44.899*******************.******.**.*.*..*..*.*
+mm_H2-D1                     --PRS.KGEVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-D1             PP ..456.899*******************.******.**.*.*..*..*.*
+mm_H2-Q4                     ----S.DGDVTLRCWALGFYPANIILTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-Q4             PP ....5.7789******************.******.**.*.*..*..*.*
+mm_H2-Q6                     -----.-GAVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-Q6             PP .......679******************.******.**.*.*..*..*.*
+mm_H2-T23                    --PRS.EDEVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-T23            PP ..456.899*******************.******.**.*.*..*..*.*
+mm_H2-Q2                     --PSS.QGDVTLRCWALGFYPADITLTW.QLNGED.LT.Q.D..M..E.L
+#=GR mm_H2-Q2             PP ..455.889*******************.******.**.*.*..*..*.*
+mm_H2-Q1                     ---RS.QGDVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-Q1             PP ...55.7899******************.******.**.*.*..*..*.*
+mm_H2-Bl                     -----.AGDVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-Bl             PP ......5679******************.******.**.*.*..*..*.*
+mm_H2-T3                     -----.EGYVTLRCWALRFYPADITLTW.QLNGEE.LI.Q.D..T..E.L
+#=GR mm_H2-T3             PP ......5679******************.******.**.*.*..*..*.*
+mm_Gm7030                    -----.EGEVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_Gm7030            PP ......6899******************.******.**.*.*..*..*.*
+mm_Gm11127                   -----.EGDVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_Gm11127           PP ......6789******************.******.**.*.*..*..*.*
+mm_H2-M2                     -----.EGDVTLRCWALGFYPSDIIMIW.QRDGED.QT.Q.D..M..D.V
+#=GR mm_H2-M2             PP ......6789******************.******.**.*.*..*..*.*
+mm_H2-M3                     -----.KGDVTLRCWALGFYPADITLTW.QKDEED.LT.Q.D..M..E.L
+#=GR mm_H2-M3             PP ......7889******************.******.**.*.*..*..*.*
+mm_H2-M5                     -----.EGEVTLRCWALGFYPANIILTW.QWDEED.LT.Q.D..M..D.L
+#=GR mm_H2-M5             PP ......789*******************.******.**.*.*..*..*.*
+mm_Azgp1                     -----.--NRIFKCLAYGFYPQRISLHW.NKANKK.LA.F.E..P..E.R
+#=GR mm_Azgp1             PP ........66788***************.******.97.6.6..6..6.6
+mm_Mr1                       -----.-GITTFFCRAHGFYPPEISMTW.MKNGEE.IA.Q.E..V..D.Y
+#=GR mm_Mr1               PP .......557889***************.******.**.*.*..*..*.*
+mm_Fcgrt                     -----.SGSSVLTCAAFSFYPPELKFRF.LRNGLA.SG.S.G..N..C.S
+#=GR mm_Fcgrt             PP ......67889*****************.*****9.77.7.7..7..6.6
+mm_H2-M10.1                  ----P.EGNVTLRCWALGFYPADITMTW.KRDGNN.LT.Q.D..M..E.L
+#=GR mm_H2-M10.1          PP ....4.7899******************.******.**.*.*..*..*.*
+mm_H2-M10.3                  ----P.EGNVTLRCWALGFYPADITLTW.KRDGNN.LT.Q.D..M..E.L
+#=GR mm_H2-M10.3          PP ....4.7899******************.******.**.*.*..*..*.*
+mm_H2-M10.2                  ----P.EGNVTLRCWALGFYPADITLTW.KRDGKN.YT.Q.D..M..E.L
+#=GR mm_H2-M10.2          PP ....4.7899******************.******.**.*.*..*..*.*
+mm_H2-T10                    -----.EGDVTLRCWALGFYPADITLTW.QKDGEE.LT.Q.E..V..E.F
+#=GR mm_H2-T10            PP ......6789******************.******.**.*.*..*..*.*
+mm_H2-T22                    -----.EGDVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..M..E.L
+#=GR mm_H2-T22            PP ......6789******************.******.**.*.*..*..*.*
+mm_H2-M10.6                  ----P.EGNVTLRCWALGFYPADITMTW.KRDGKN.HT.Q.D..M..E.L
+#=GR mm_H2-M10.6          PP ....4.7899******************.******.**.*.*..*..*.*
+mm_H2-M1                     -----.DRKTTLRCWAFNFYPPEITLTW.QRDGSN.QT.Q.D..M..E.M
+#=GR mm_H2-M1             PP ......6899******************.******.**.*.*..*..*.*
+mm_H2-T24                    ----P.KENVTLRCWALGFYPADITLTW.QLNGEE.LT.Q.D..T..E.L
+#=GR mm_H2-T24            PP ....3.899*******************.******.**.*.*..*..*.*
+mm_Hfe                       -----.---TSLRCQALDFFPQNITMRW.LKDNQP.LD.A.K..D..V.N
+#=GR mm_Hfe               PP .........689****************.******.*9.8.7..7..7.7
+mm_H2-M10.4                  ---TP.EGNVTLRCWALGFYPADITLTW.KRDGKN.HT.Q.D..M..E.L
+#=GR mm_H2-M10.4          PP ...44.7899******************.******.**.*.*..*..*.*
+mm_H2-M9                     -----.DRKITLRCWAFNFYPPEITLTW.QRDGSN.QT.Q.D..M..E.V
+#=GR mm_H2-M9             PP ......5789******************.******.**.*.*..*..*.*
+mm_H2-M10.5                  ----P.EGNVTLRCWALGFYPADITMTW.KRDGNN.HT.Q.D..M..E.L
+#=GR mm_H2-M10.5          PP ....4.7899******************.******.**.*.*..*..*.*
+mm_H2-M11                    ----P.DKKITLRCWALKFYPAEITLTW.ERDKSN.QT.L.D..M..E.V
+#=GR mm_H2-M11            PP ....4.7899******************.******.**.*.*..*..*.*
+mm_Mill2                     -----.--RVTLTCRAFNLYTREATLVW.LQDGKP.VQ.Q.K..T..F.R
+#=GR mm_Mill2             PP ........68******************.******.**.*.*..9..9.9
+mm_Mill1                     -----.---ITLTCRAFRLYTRVATLTW.LQYRKP.VQ.Q.K..T..F.G
+#=GR mm_Mill1             PP .........59*****************.******.**.*.*..9..9.9
+mm_Cd1d1                     -----.HGHRQLVCHVSGFYPKPVWVMW.MRGDQE.-Q.Q.G..T..H.R
+#=GR mm_Cd1d1             PP ......67899*****************.998888..8.9.*..*..*.*
+mm_Cd1d2                     -----.HGHLQLVCHVSG-YPKPVWVMW.MRGDQE.-Q.Q.G..T..H.R
+#=GR mm_Cd1d2             PP ......67789*******.7********.998888..8.9.*..*..*.*
+ENSMODG00000010596           -----.DGEVSLRCRAQGFYPAEISLTW.LRDGEE.QL.Q.D..T..E.F
+#=GR ENSMODG00000010596   PP ......6789******************.******.**.*.*..*..*.*
+md_MODO-UC                   -----.DGEVSLRCRAHGFYPAEISLTW.LRDGEE.QL.Q.D..T..E.F
+#=GR md_MODO-UC           PP ......57899*****************.******.**.*.*..*..*.*
+md_MODO-UB                   -----.DGEVSLRCRAHGFYPAEISLMW.LRDGEE.QL.Q.D..T..E.F
+#=GR md_MODO-UB           PP ......6789******************.******.**.*.*..*..*.*
+md_MHC-I                     -----.SARVSLRCRAQGFYPAEISLTW.LRDGEE.QL.Q.D..T..E.F
+#=GR md_MHC-I             PP ......56799*****************.******.**.*.*..*..*.*
+ENSMODG00000014839           -----.DGEVSLRCRAQGFYPAEISLTW.LRDGEE.QL.Q.D..T..E.F
+#=GR ENSMODG00000014839   PP ......6789******************.******.**.*.*..*..*.*
+ENSMODG00000014336           -----.DGEVSLRCRAQGFYPAEISLTW.LRDGEE.QL.Q.D..T..E.F
+#=GR ENSMODG00000014336   PP ......6789******************.******.**.*.*..*..*.*
+md_MODO-UE                   ---SS.DGEVTLKCRAQDFYPAEISLVW.LREGEE.QL.Q.D..T..E.F
+#=GR md_MODO-UE           PP ...45.889*******************.******.**.*.*..*..*.*
+md_MR1                       ----S.TGITTLICKAYGFYPPEITMTW.IKNGEL.IT.Q.E..I..E.H
+#=GR md_MR1               PP ....4.66789*****************.******.**.*.*..*..*.*
+md_AZGP1                     --SSL.EGNLTMKCLAHHFYPKEIELNW.LWNGKV.QE.K.K..V..G.E
+#=GR md_AZGP1             PP ..456.888999****************.*****9.66.6.6..6..6.6
+md_HFE                       -----.-GVTTLRCQAQNFSPVNITLSW.LWDGKQ.VT.Q.G..T..E.L
+#=GR md_HFE               PP .......5579*****************.******.**.*.*..*..*.*
+md_MIC-like                  -----.T---------------------.------.--.-.-..-..-.-
+#=GR md_MIC-like          PP ......1...........................................
+md_FCGRT                     -----.QGQSTLTCQAFSFFPPEVKLTF.LREGKP.VP.E.P..E..K.G
+#=GR md_FCGRT             PP ......6899******************.******.**.*.*..*..*.*
+md_MILL-LIKE                 -----.KLNNLWVCWAYNIFPGDVKITW.LKDGQA.LN.Q.K..E..Q.E
+#=GR md_MILL-LIKE         PP ......5567789***************.******.**.*.*..*..*.*
+ENSMODG00000015810           --GTF.SKKSTLKCQAFSFYPPDISLTW.LQDGKP.TI.K.G..T..Q.E
+#=GR ENSMODG00000015810   PP ..455.89********************.******.*9.9.9..9..9.9
+ENSMODG00000015798           -----.----------------------.------.--.-.-..-..-.N
+#=GR ENSMODG00000015798   PP .................................................0
+ENSMODG00000028158           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSMODG00000028158   PP ..................................................
+md_MODO-UG                   -----.----------------------.------.--.-.-..-..-.-
+#=GR md_MODO-UG           PP ..................................................
+ENSMODG00000011424           -----.DGRVTFSCRATGFYPSSILLHW.EKDGAL.GV.W.G..Q..E.S
+#=GR ENSMODG00000011424   PP ......567899****************.****98.66.6.6..6..5.5
+ENSMODG00000024063           -----.-------------------V--.------.--.-.-..-..-.-
+#=GR ENSMODG00000024063   PP .........................3........................
+ENSMODG00000023068           ----M.DGITTLSCSATGFYPSSILLHW.QKKEKK.IV.V.G..K..E.S
+#=GR ENSMODG00000023068   PP ....4.66789*****************.**9999.99.9.9..9..8.8
+ENSMODG00000023744           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSMODG00000023744   PP ..................................................
+ENSMODG00000029679           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSMODG00000029679   PP ..................................................
+ENSMODG00000011403           -----.DGRVAFNCTATGFYPRSIMMRW.EKGGQL.GV.W.G..Q..E.S
+#=GR ENSMODG00000011403   PP ......5677889***************.*****8.76.6.6..6..6.5
+ENSMODG00000027380           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSMODG00000027380   PP ..................................................
+ENSMODG00000011316           -----.EGSIILSCIASGFYPRSILMSW.EKYGKL.GI.W.G..N..E.S
+#=GR ENSMODG00000011316   PP ......67789*****************.****98.66.6.6..6..5.5
+ENSMODG00000011387           -----.EGSIILSCIASGFYPRSILMHW.ERNGKL.GI.W.G..N..E.S
+#=GR ENSMODG00000011387   PP ......67789*****************.*****8.76.6.6..6..6.5
+ENSMODG00000011414           ---EFpNGTITFSCTATGFYPQAIQMSWkKADNGT.VV.G.K..E..D.S
+#=GR ENSMODG00000011414   PP ...445788899****************5557778.88.8.8..9..9.9
+ENSOANG00000003172           ----D.GEDVSLRCRAFGFYPADIKFMW.RREGED.VS.L.Q..M..E.L
+#=GR ENSOANG00000003172   PP ....5.7899******************.******.**.*.*..*..*.*
+ENSOANG00000005224           HPSQD.EDNVTLRCQALGFYPADIRMRW.QRDGED.LT.R.D..T..E.H
+#=GR ENSOANG00000005224   PP 67778.99********************.******.**.*.*..*..*.*
+ENSOANG00000001863           -----.-----V----------------.------.--.-.-..-..-.-
+#=GR ENSOANG00000001863   PP ...........0......................................
+ENSOANG00000003581           -----.NGEPMLRCWAHGFYPRDIRLSW.WWDGQE.LT.Q.E..T..E.H
+#=GR ENSOANG00000003581   PP ......7789******************.******.**.*.*..*..*.*
+ENSOANG00000008306           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSOANG00000008306   PP ..................................................
+ENSOANG00000015040           -----.------------F---------.------.--.-.-..-..-.-
+#=GR ENSOANG00000015040   PP ..................1...............................
+ENSOANG00000001818           -----.NREMILKCWVFSFSSPNIVLSW.LKDGEE.ME.Q.D..T..K.H
+#=GR ENSOANG00000001818   PP ......78899*****************.******.**.*.*..*..*.*
+ENSOANG00000003398           -----.GEDVSLRCRALGFYPADIKFKW.EREGKD.MS.Q.E..M..E.F
+#=GR ENSOANG00000003398   PP ......7899******************.******.**.*.*..*..*.*
+ENSOANG00000029890           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSOANG00000029890   PP ..................................................
+ENSOANG00000004202           -----.-STQSLSCQTCGFYPKEIKVKW.QWDGMA.MT.Q.D..P..E.H
+#=GR ENSOANG00000004202   PP .......6789*****************.******.**.*.9..9..9.8
+ENSOANG00000002636           -----.GEDVSLRCRALGFYPADIKFKW.EREGED.MS.Q.E..M..E.F
+#=GR ENSOANG00000002636   PP ......7899******************.******.**.*.*..*..*.*
+ENSOANG00000022269           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSOANG00000022269   PP ..................................................
+ENSOANG00000012222           -----.DGSLTLSCLATGFYPSSILLRW.VKDGEK.GL.W.G..E..E.S
+#=GR ENSOANG00000012222   PP ......6789******************.****99.76.6.6..6..5.5
+ENSOANG00000015154           -----.DGRVIFICLATGFYPSSILLRW.VKDGEVgLW.G.D..E..S.S
+#=GR ENSOANG00000015154   PP ......667899****************.****97245.5.6..6..6.6
+ENSOANG00000007216           -----.DGSLTLSCLATGFYPSSILLRW.VKDGEE.GL.W.G..E..E.S
+#=GR ENSOANG00000007216   PP ......6788******************.*****9.77.6.6..6..6.5
+ENSOANG00000021638           -----.DGRVIFTCLATGFFPSSILLRW.VKDGEV.GL.W.G..E..EsS
+#=GR ENSOANG00000021638   PP ......567899****************.****98.66.6.5..5..505
+ENSOANG00000022751           -----.---LTLSCLATSFYPSSILLRW.VKRGCG.--.K.R..R..V.P
+#=GR ENSOANG00000022751   PP .........69*****************.****98....5.6..6..6.6
+tn_mhc1zea                   --ANV.QANIVLTCMATGFSSINTIVQI.KRDGLV.LT.K.D..D..-.-
+#=GR tn_mhc1zea           PP ..455.77889*****************.******.98.6.5..5.....
+ENSTNIG00000001085           -----.EPSSPVTCMATGFYPGGATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000001085   PP ......557789****************.******.**.*.*..*..*.*
+ENSTNIG00000005106           -----.EPSSPVTCMATGFYPDGATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000005106   PP ......557789****************.******.**.*.*..*..*.*
+ENSTNIG00000001016           -----.EPSSPVTCVATGFYPGGATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000001016   PP ......567889****************.******.**.*.*..*..*.*
+ENSTNIG00000003024           -----.EPSSPVTCMATGFYPGGATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000003024   PP ......55778*****************.******.**.*.*..*..*.*
+ENSTNIG00000009992           -----.-PSSPVSCHVTGFHPENGVVFW.RKDGQK.LQ.E.E..V..E.Y
+#=GR ENSTNIG00000009992   PP .......56789****************.******.**.*.*..*..*.*
+ENSTNIG00000000474           -----.EPSSPVTCMATGFYP-GATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000000474   PP ......56778**********.679***.******.**.*.*..*..*.*
+ENSTNIG00000004145           -----.EPSSPVICMATVFYPDGATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000004145   PP ......56778*****************.******.**.*.*..*..*.*
+ENSTNIG00000001973           -----.EPSSPVTCMATGFYPGGATLSW.RRGEEE.LH.E.E..V..E.P
+#=GR ENSTNIG00000001973   PP ......56778*****************.******.**.*.*..*..*.*
+ENSTNIG00000004925           -----.-------------FPEFVAVVM.VDDVHI.SH.Y.D..S..D.T
+#=GR ENSTNIG00000004925   PP ...................677777777.666666.66.6.6..6..6.6
+ENSMGAG00000005937           -----.DGILTLSCRAHSFYPRPITISW.MKDGVV.QD.Q.E..T..H.W
+#=GR ENSMGAG00000005937   PP ......55679*****************.******.**.*.*..*..*.*
+ENSMGAG00000006286           -----.DGILTLSCRAHGFYPWPIAI-W.RKDGKV.RD.Q.E..T..H.W
+#=GR ENSMGAG00000006286   PP ......55679**************9.*.******.**.*.*..*..*.*
+ENSMGAG00000009766           -----.---LTLSCRAHGFYPRPIDVSW.MKDGVA.QN.Q.D..T..Q.S
+#=GR ENSMGAG00000009766   PP .........69*****************.******.**.*.*..*..*.*
+ENSMGAG00000016965           -----.------------------F---.------.--.-.-..-..-.-
+#=GR ENSMGAG00000016965   PP ........................0.........................
+ENSMGAG00000009608           -----.--QLLLVCRVTSFYPRPITVTW.LRDGKE.LP.-.-..-..-.-
+#=GR ENSMGAG00000009608   PP ........5689****************.*****9.87............
+mg_PROCR                     -----.----------------------.------.--.-.-..-..-.-
+#=GR mg_PROCR             PP ..................................................
+ENSMEUG00000016222           -----.-GEVTLRCRAQDFYPKEISLTW.LRDGEE.HP.Q.D..T..E.F
+#=GR ENSMEUG00000016222   PP .......579******************.******.**.*.*..*..*.*
+ENSMEUG00000012186           ----P.DEEVTLRCRAQDFYPSEISLTW.LRDDEE.QL.Q.N..T..E.F
+#=GR ENSMEUG00000012186   PP ....3.799*******************.******.99.9.9..9..9.9
+ENSMEUG00000007887           -----.EGEVILRCRAQDFYPAEISMIW.LRDGEE.QL.Q.D..M..E.F
+#=GR ENSMEUG00000007887   PP ......6799******************.******.**.*.*..*..*.*
+ENSMEUG00000002955           -----.HGEVTLRCRAQDFYP-EISLIW.LRDGEE.QP.Q.D..T..E.-
+#=GR ENSMEUG00000002955   PP ......7899***********.8*****.******.99.8.7..6..5..
+ENSMEUG00000001234           ----S.EGEVTLRCRAQGFYPAEISLTW.LRDGEE.QL.Q.E..M..E.L
+#=GR ENSMEUG00000001234   PP ....4.789*******************.******.**.*.*..*..*.*
+ENSMEUG00000012694           -----.HGEVTLRCQAQDFYPKEISLTW.LRDGEE.HP.Q.D..T..E.F
+#=GR ENSMEUG00000012694   PP ......6899******************.******.**.*.*..*..*.*
+me_HFE                       -----.--------------P-------.------.--.-.-..-..-.-
+#=GR me_HFE               PP ....................3.............................
+ENSMEUG00000008250           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSMEUG00000008250   PP ..................................................
+me_FCGRT                     ----V.STQSILTCQAFSFFPPELELSF.LWKGAS.G-.-.-..C..E.G
+#=GR me_FCGRT             PP ....4.7899******************.****98.4.......4..4.4
+ENSMEUG00000010584           -----.--EVTLRCRAQDFYPKDISLTW.LRDGEE.HP.Q.D..T..E.F
+#=GR ENSMEUG00000010584   PP ........79******************.******.**.*.*..*..*.*
+ENSMEUG00000004463           -----.HGEVTLRCRAQDFYPKEISLTW.LRDGEE.QP.Q.D..T..E.F
+#=GR ENSMEUG00000004463   PP ......7899******************.******.**.*.*..*..*.*
+ENSMEUG00000003479           -----.HGEVTLRCRAHDFYPKEISLTW.LRDGEE.QP.Q.D..T..E.F
+#=GR ENSMEUG00000003479   PP ......7899******************.******.**.*.*..*..*.*
+ENSMEUG00000008531           -----.HGEVTLRCQAQDFYPKEISLTW.LRDGEE.QP.Q.D..T..E.F
+#=GR ENSMEUG00000008531   PP ......6799******************.******.**.*.*..*..*.*
+ENSMEUG00000004115           --KKQ.EGEVTLRCWAHNFFPGDIKMIC.LWDGYA.LI.-.-..-..H.K
+#=GR ENSMEUG00000004115   PP ..455.899*******************.****98.64.........5.5
+me_PROCR                     -----.---------------------W.------.--.-.-..-..-.-
+#=GR me_PROCR             PP ...........................2......................
+ENSMEUG00000003085           -----.HGEMTLPCQAQDFYPKEISLTW.LRDGEE.QP.Q.D..T..E.F
+#=GR ENSMEUG00000003085   PP ......67899*****************.******.**.*.*..*..*.*
+ENSMEUG00000005831           -KKKQ.EGEVTLRCWAYNFFPRDIKMTW.LRDGRA.LN.Q.K..D..Q.E
+#=GR ENSMEUG00000005831   PP .4566.899*******************.******.**.*.9..9..9.9
+xt_mhc1a                     ---QS.DDITELRCQAYGFYPREIDVKW.VRNGRD.DV.H.S..D..E.A
+#=GR xt_mhc1a             PP ...56.77789*****************.******.**.*.*..*..*.*
+ENSXETG00000017938           -----.---IKLHCQVYGFFPQAIKVKW.LRSEEE.KV.Q.P..F..E.V
+#=GR ENSXETG00000017938   PP .........579****************.******.**.*.*..*..*.*
+ENSXETG00000009073           -NSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000009073   PP .5567.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000033941           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000033941   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000009068           -----.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000009068   PP ......56678*****************.******.**.*.*..*..*.*
+xt_XB-GENE-5873924           ---ES.DGATKLYCWVYGFYPRDVDVRW.VRNGTE.ED.-.S..E..E.H
+#=GR xt_XB-GENE-5873924   PP ...55.67789*****************.******.65...5..5..5.5
+ENSXETG00000032875           ----S.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000032875   PP ....4.66778*****************.******.**.*.*..*..*.*
+ENSXETG00000009076           -SSES.ENGTELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000009076   PP .4567.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000030073           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000030073   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000009064           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000009064   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000031629           -SSES.DGEQKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000031629   PP .6678.9999******************.******.**.*.*..*..*.*
+ENSXETG00000009077           --SES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000009077   PP ..567.78899*****************.******.**.*.*..*..*.*
+ENSXETG00000031111           ----S.VSGTKLHCRVYGFYPRDVDVKW.IKNERD.EI.Y.S..E..E.A
+#=GR ENSXETG00000031111   PP ....5.56678*****************.******.**.*.*..*..*.*
+ENSXETG00000030689           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000030689   PP .5677.88899*****************.******.**.*.*..*..*.*
+xt_XB-GENE-5757686           ---ES.DSGAELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR xt_XB-GENE-5757686   PP ...66.7889******************.******.**.*.*..*..*.*
+ENSXETG00000025015           -SSES.DSGADLHCSVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000025015   PP .5677.89999*****************.******.**.*.*..*..*.*
+xt_XB-GENE-5894693           ---ES.DSGVELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR xt_XB-GENE-5894693   PP ...66.8889******************.******.**.*.*..*..*.*
+ENSXETG00000033834           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000033834   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000033504           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000033504   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000034352           -SSES.ESGTELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000034352   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000032895           ---ES.ENGTELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000032895   PP ...55.77789*****************.******.**.*.*..*..*.*
+ENSXETG00000033980           -SSES.ESGTKLHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000033980   PP .5677.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000009089           ---ES.ESGAELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000009089   PP ...66.8889******************.******.**.*.*..*..*.*
+ENSXETG00000030785           ---ES.DNNTKLHCCVYGFHPREVDVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000030785   PP ...66.88899*****************.******.**.*.*..*..*.*
+ENSXETG00000030515           ----S.ESGTKLHCRVYGFYPRDVVVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000030515   PP ....4.67789*****************.******.**.*.*..*..*.*
+ENSXETG00000002125           ---ES.DSGAELHCRVYGFYPRDVEVKW.IKNGRD.EI.H.S..E..E.A
+#=GR ENSXETG00000002125   PP ...66.8889******************.******.**.*.*..*..*.*
+ENSTGUG00000017273           -----.-GTLILSCHAYGFYPNTITVSW.MKENAT.LD.Q.E..M..E.W
+#=GR ENSTGUG00000017273   PP .......56789****************.******.**.*.*..*..*.*
+ENSTGUG00000015195           -----.HGTRALSCHMYGFCPRTIRMSW.MKGEEM.QD.Q.E..I..E.L
+#=GR ENSTGUG00000015195   PP ......56788*****************.******.**.*.*..*..*.*
+ENSTGUG00000014985           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSTGUG00000014985   PP ..................................................
+ENSTGUG00000014179           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSTGUG00000014179   PP ..................................................
+ENSTGUG00000016646           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSTGUG00000016646   PP ..................................................
+ENSTGUG00000014981           -----.----------------------.---G--.--.-.-..-..-.-
+#=GR ENSTGUG00000014981   PP ................................0.................
+ENSTGUG00000015460           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSTGUG00000015460   PP ..................................................
+ENSTGUG00000015564           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSTGUG00000015564   PP ..................................................
+ENSTGUG00000015443           -----.----------------------.------.--.-.-..-..-.-
+#=GR ENSTGUG00000015443   PP ..................................................
+ENSTGUG00000003538           -----.--QLLLVCHVTGFYPRPISVAW.LRDGQE.VP.P.G..PalN.T
+#=GR ENSTGUG00000003538   PP ........5689****************.******.**.9.8..6225.6
+dr_mhc1zba                   -----.--KLKLTCLATGFYPKDVILNI.RKYRIT.LP.DnE..V..E.S
+#=GR dr_mhc1zba           PP ........678*****************.998888.86.516..7..7.7
+dr_mhc1zea                   -----.KAKLKLTCMVTGFYPKDVILTI.RKYRTA.LSdN.E..V..E.S
+#=GR dr_mhc1zea           PP ......66889*****************.777666.6516.6..7..7.7
+dr_mhc1zca                   -----.--KLKLTCMATGFYPKDMILTI.RKYRTT.LP.D.N..D..L.D
+#=GR dr_mhc1zca           PP ........678*****************.999999.99.8.8..7..7.7
+dr_mhc1zfa                   -----.KTKLKLTCLATGFYSKDTMLVI.RRNRLP.E-.K.K..T..E.S
+#=GR dr_mhc1zfa           PP ......67889*****************.999999.5..5.6..6..6.6
+dr_mhc1zaa__1                --TKD.ETKLKLTCLATGFYDKDVMLNI.RRNCLP.ED.-.E..T..E.S
+#=GR dr_mhc1zaa__1        PP ..445.78999*****************.***999.55...5..5..6.6
+dr_DARE-ZE*0601              --TKD.ETKLKLTCLATGFYPSDVMLNI.RRNRVY.LP.E.Q..E..T.I
+#=GR dr_DARE-ZE*0601      PP ..445.78999*****************.******.**.*.*..9..9.8
+dr_mhc1uba                   ----K.SSSSPVVCHVTGFYPSGLKISW.QRNGQD.HD.E.D..V..E.L
+#=GR dr_mhc1uba           PP ....4.78899*****************.******.**.*.*..*..*.*
+dr_mhc1zaa__2                --TKD.ETKLKLTCLATGFYPNDVMLNI.RRYRVY.LP.E.Q..E..T.I
+#=GR dr_mhc1zaa__2        PP ..445.78899*****************.******.**.*.9..9..9.8
+dr_CABZ01031753.1            -----.NPSSPVECFATGFYPSGVIITW.LKNGQD.HG.E.N..V..E.L
+#=GR dr_CABZ01031753.1    PP ......5667899***************.******.**.*.*..*..*.*
+dr_mhc1uca                   -----.----PVVCHATGFYPSGIKISW.QKNGQD.HD.E.D..V..E.L
+#=GR dr_mhc1uca           PP ..........69****************.******.**.*.*..*..*.*
+dr_CABZ01031754.1            -----.--NSDVKCHVTGFYSNNIVILW.MKNGQE.VS.N.S..AllK.S
+#=GR dr_CABZ01031754.1    PP ........45689***************.******.**.9.9..7436.7
+dr_BX682558.1                -----.TGKIQMTCLATGFYPRHINLTL.LQDGQP.VN.E.E..R..V.M
+#=GR dr_BX682558.1        PP ......567789****************.******.*9.9.9..8..8.8
+dr_zgc:113060                -----.SQGLQISCLATGFYPRHINLTL.FRDAEL.VD.D.D..Q..I.T
+#=GR dr_zgc:113060        PP ......6667899***************.******.**.*.*..*..9.9
+dr_CU571323.1                -----.SQGLQISCLATGFYPRHINLTL.FRDAEP.VD.D.D..Q..I.I
+#=GR dr_CU571323.1        PP ......5667899***************.******.**.*.*..*..9.9
+dr_CR339041.1                -----.----VVSCLATGFYPRHINLTL.LRDGQP.VS.D.H..E..L.T
+#=GR dr_CR339041.1        PP ..........589***************.******.**.*.*..*..*.*
+dr_BX572619.1                -----.----RVSCLATGFYPRHINLTL.LRDGQP.VS.D.H..E..V.T
+#=GR dr_BX572619.1        PP ..........689***************.******.**.9.9..9..9.9
+dr_si:ch211-147g22.1         ----L.SSSFRVSCLATGFYPRHINLTL.LRDGQP.VS.D.H..D..V.T
+#=GR dr_si:ch211-147g22.1 PP ....5.778899****************.******.**.9.9..8..8.8
+dr_CABZ01077449.1            -----.QGQEYLKCVVRGFYPNVIRVRW.TQKGKP.IF.F.G..V..S.T
+#=GR dr_CABZ01077449.1    PP ......567889****************.******.**.*.*..*..*.*
+dr_si:dkey-52p2.6            -----.----RVSCLATGFYPRHINLTL.LRDGQP.VS.D.H..G..V.T
+#=GR dr_si:dkey-52p2.6    PP ..........689***************.******.*9.8.7..6..6.6
+dr_si:ch211-147g22.2         --KEL.SSGFIVSCLATGFYPRHINLTL.LRDGQP.VS.D.H..D..V.T
+#=GR dr_si:ch211-147g22.2 PP ..677.88899*****************.******.**.9.9..8..8.8
+dr_CR339041.2                -----.-----VSCLATGFYPRHINLTL.LRDGQP.VS.D.H..E..F.T
+#=GR dr_CR339041.2        PP ...........89***************.******.**.*.*..*..*.*
+dr_si:ch211-147g22.4         -----.---FRVSCLATGFYPRHINLTL.LRDGQP.VS.D.Y..E..V.T
+#=GR dr_si:ch211-147g22.4 PP .........5699***************.******.**.9.9..8..8.8
+dr_BX572619.2                -----.----CVSCLATGFYPRHINLTL.LRDGQP.VS.D.H..E..V.T
+#=GR dr_BX572619.2        PP ..........689***************.******.**.9.9..9..9.9
+#=GC PP_cons                 65555.77889*****************.*****9.99.9.9..9..9.9
+#=GC RF                      xxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xx.x.x..x..x.x
+
+gg_BF1                       .G.GIMP.N..GDGTY.HTWVTI.DAQ...P.GDGD..KYQCRVEHASLP
+#=GR gg_BF1               PP .*.****.*..*****.******.***...*.****..***********9
+gg_BFIV21                    .G.GIVP.N..GDGTY.HTWVTI.DAQ...P.GDGD..KYQCRVEHASLP
+#=GR gg_BFIV21            PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000024340           .G.GVVP.N..SDGTY.HASAAI.DVL...P.EDGD..KYWCRVEHASLP
+#=GR ENSGALG00000024340   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000027293           .G.GVVP.N..SDGTY.HASAAI.DVP...P.EDGD..KYRCHVEHASLP
+#=GR ENSGALG00000027293   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000029093           .G.GVVP.N..SDGTY.HASAAI.DVP...P.EDGD..KYRCHVEHASLP
+#=GR ENSGALG00000029093   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000024348           .G.GVVP.N..SDGTY.HTSAAI.DVL...P.EDGD..KYWCRVEHASLP
+#=GR ENSGALG00000024348   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000026292           .G.GIVP.N..RDGTY.HTSAAI.DVL...P.EDGD..KYRCRVEHASLP
+#=GR ENSGALG00000026292   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000027445           .G.GIVP.N..RDGTY.HTSAAI.DVL...P.EDGD..KYRCRVEHASLP
+#=GR ENSGALG00000027445   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000027944           .-.----.-..-----.------.---...-.----..---C--------
+#=GR ENSGALG00000027944   PP .........................................0........
+ENSGALG00000029079           .-.----.-..-----.------.---...-.--Q-..------------
+#=GR ENSGALG00000029079   PP ..................................0...............
+ENSGALG00000028268           .G.GVVP.N..SDGTY.HASAVI.NVL...P.KDGD..KYWCRVEHASLP
+#=GR ENSGALG00000028268   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000004617           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSGALG00000004617   PP ..................................................
+ENSGALG00000002614           .G.GVVP.N..SDGTY.HASAAI.DVL...P.EDVD..KYWCRVEHTSLP
+#=GR ENSGALG00000002614   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000027955           .G.GIVP.N..RDGTY.HASAAI.DVL...P.EDRD..NYRCRVEHASLP
+#=GR ENSGALG00000027955   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000027693           .G.GIVP.N..SDGTY.HASAAI.DVL...P.EDGD..KYRCRVEHASLP
+#=GR ENSGALG00000027693   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000026466           .G.GIVP.N..SDGTY.HASAAI.DVL...P.KDVD..KYWCRVEHTSLP
+#=GR ENSGALG00000026466   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000004772           .G.GVVP.N..RDGTY.HASAAI.DVL...P.EDGD..KYQCRVEHASLP
+#=GR ENSGALG00000004772   PP .*.****.*..*****.******.***...*.****..***********9
+ENSGALG00000027431           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSGALG00000027431   PP ..................................................
+ENSGALG00000027045           .-.----.-..--H--.------.---...-.----..------------
+#=GR ENSGALG00000027045   PP .............2....................................
+ENSGALG00000027123           .-.----.-..-----.------.---...-.----..-Y----------
+#=GR ENSGALG00000027123   PP .......................................2..........
+ENSGALG00000026145           .D.----.-..-----.------.---...-.----..------------
+#=GR ENSGALG00000026145   PP .1................................................
+gg_CD1A1                     .G.TVLP.N..ADLTY.QLRSTL.LVS...P.QDGH..GYACRVQHCSLG
+#=GR gg_CD1A1             PP .6.7777.*..*****.******.***...*.****..********9985
+bt_BOLA__1                   .V.ETRP.S..GDGTF.QKWAAL.VVP...S.GEEQ..RYTCRVQHEGLR
+#=GR bt_BOLA__1           PP .*.****.*..*****.******.***...*.****..************
+bt_JSP.1                     .V.ETRP.S..GDGTF.QKWVAL.VVP...S.GEEQ..RYTCSVQHEGLQ
+#=GR bt_JSP.1             PP .*.****.*..*****.******.***...*.****..************
+bt_BOLA-NC                   .V.ETRP.S..GDGTF.QKWAAL.AVP...S.GEEQ..RYTCRVQHEGLQ
+#=GR bt_BOLA-NC           PP .*.****.*..*****.******.***...*.****..***********9
+bt_BOLA__3                   .V.ETRP.S..GDGTF.QKWAAL.VVP...S.GEEQ..RYTCHVQHEGLQ
+#=GR bt_BOLA__3           PP .*.****.*..*****.******.***...*.****..************
+ENSBTAG00000005146           .V.ETRP.-..GDGNF.QKWAAL.VVP...S.GEEQ..RYTCHVQHEGLQ
+#=GR ENSBTAG00000005146   PP .*.***9....9****.******.***...*.****..************
+ENSBTAG00000007075           .V.ETRP.S..GDGTF.QKWAAL.VVP...S.GEEQ..RHTCRVQHEGLQ
+#=GR ENSBTAG00000007075   PP .*.****.*..*****.******.***...*.****..************
+ENSBTAG00000012208           .V.ETRP.S..GDGTF.QKWAAL.VVP...S.GEEQ..RYTCHVQHEGLQ
+#=GR ENSBTAG00000012208   PP .*.****.*..*****.******.***...*.****..************
+bt_BOLA__2                   .V.ETRP.S..GDGTF.QKWAAL.VVP...S.GEEQ..RYTCRVQHEGLQ
+#=GR bt_BOLA__2           PP .*.****.*..*****.******.***...*.****..************
+bt_BT.105339                 .V.ETRP.S..GDGTF.QKWVAL.VVP...S.GEEQ..RYTCCVQHEGLQ
+#=GR bt_BT.105339         PP .*.****.*..*****.******.***...*.****..************
+ENSBTAG00000008959           .V.ETRA.S..GDA--.------.---...-.----..------------
+#=GR ENSBTAG00000008959   PP .9.9988.7..775....................................
+bt_AZGP1                     .G.DVLP.S..GNGTY.QSWVVV.GVP...P.EDQA..PYSCHVEHRSLT
+#=GR bt_AZGP1             PP .8.8888.9..*****.******.***...*.****..***********9
+bt_MR1                       .G.GILP.S..GDGTY.QTWVSV.ELD...P.QNGD..IYSCHVEHGGVH
+#=GR bt_MR1               PP .*.****.*..*****.******.***...*.****..********8875
+ENSBTAG00000004815           .V.EARP.S..GDGTY.QTWMAV.WVP...A.GDET..QYTCHVQHCSLN
+#=GR ENSBTAG00000004815   PP .*.****.*..*****.******.***...*.****..***********9
+ENSBTAG00000038619           .V.ETRP.S..GDGTF.QKWAAL.VVP...S.GEEQ..KYTCRVQHEGLQ
+#=GR ENSBTAG00000038619   PP .*.****.*..*****.******.***...*.****..************
+bt_HFE                       .P.EDVLpN..GDGTY.QAWVAL.AML...P.GEEQ..RYSCQVEHPGLD
+#=GR bt_HFE               PP .8.88877*..*****.******.***...*.****..************
+bt_FCGRT                     .M.G--P.N..GDGSF.YAWSSL.TVK...S.GDEH..HYRCVVQHAGLA
+#=GR bt_FCGRT             PP .4.4..4.7..9****.******.***...*.****..************
+ENSBTAG00000010166           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000010166   PP ..................................................
+ENSBTAG00000038891           .-.----.-..-----.---E--.---...-.----..------------
+#=GR ENSBTAG00000038891   PP ....................0.............................
+ENSBTAG00000024751           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000024751   PP ..................................................
+ENSBTAG00000047902           .G.EEVK.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000047902   PP .6.6555...........................................
+ENSBTAG00000046595           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000046595   PP ..................................................
+ENSBTAG00000048114           .-.H---.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000048114   PP ...0..............................................
+bt_ULBP3__1                  .-.----.-..-----.------.---...-.----..------------
+#=GR bt_ULBP3__1          PP ..................................................
+ENSBTAG00000001836           .-.----.-..-----.----Q-.---...-.----..------------
+#=GR ENSBTAG00000001836   PP .....................0............................
+bt_ULBP3__2                  .-.----.-..-----.------.---...-.----..------------
+#=GR bt_ULBP3__2          PP ..................................................
+ENSBTAG00000007238           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000007238   PP ..................................................
+ENSBTAG00000023970           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSBTAG00000023970   PP ..................................................
+bt_ULBP27                    .-.----.-..-----.------.---...-.----..------------
+#=GR bt_ULBP27            PP ..................................................
+ENSBTAG00000036061           .-.----.-..-----.------.--T...-.----..------------
+#=GR ENSBTAG00000036061   PP ..........................0.......................
+ENSBTAG00000039875           .-.----.-..-----.------.---...-.----..-HMCQVQGS---
+#=GR ENSBTAG00000039875   PP .......................................55555533...
+bt_RAET1G                    .-.----.-..--C--.------.---...-.----..------------
+#=GR bt_RAET1G            PP .............0....................................
+bt_PROCR                     .-.----.-..-----.------.---...-.----..------------
+#=GR bt_PROCR             PP ..................................................
+ENSBTAG00000039444           .-.----.-..-----.------.---...-.--Q-..------------
+#=GR ENSBTAG00000039444   PP ..................................1...............
+bt_CD1A__1                   .S.DVLP.N..ADGTW.YLRVSL.DVE...A.SEAS..GLSCRVRHSSLG
+#=GR bt_CD1A__1           PP .8.8889.*..*****.******.***...*.****..**********96
+bt_CD1E                      .G.DVLP.N..ADGTW.YLRVTL.DVA...A.GEAA..GLSCQVKHSSLG
+#=GR bt_CD1E              PP .9.9999.*..*****.******.***...*.****..**********96
+ENSBTAG00000039993           .G.DVMP.N..ADSTW.YLRVTL.DVA...A.GEAA..GLSCRVKHSSLG
+#=GR ENSBTAG00000039993   PP .9.9999.*..*****.******.***...*.****..**********97
+bt_CD1A__2                   .S.DVLP.N..ADGTW.YLRVSL.DVE...A.SEAS..GLSCRVRHSSLG
+#=GR bt_CD1A__2           PP .8.8889.*..*****.******.***...*.****..**********96
+ENSBTAG00000000963           .G.DLMP.N..ADWTW.YVRITL.DVA...A.GEVA..GLSCRVRHSSLG
+#=GR ENSBTAG00000000963   PP .8.9999.*..*****.******.***...*.****..**********97
+ENSBTAG00000047776           .G.DVMP.N..ADSTW.YLRVTL.DVA...A.GEAA..GLSCQVKHSSLG
+#=GR ENSBTAG00000047776   PP .9.9999.*..*****.******.***...*.****..**********97
+bt_CD1D                      .G.DVMP.N..VDSTW.YLRVTL.DVA...A.GEAA..GLSCQVKHSSLG
+#=GR bt_CD1D              PP .9.9999.*..*****.******.***...*.****..**********97
+bt_CD1B5                     .G.NIMP.N..ADWTW.YLRVTL.DVV...A.GEAA..GLSCRVKHSSLG
+#=GR bt_CD1B5             PP .9.9999.*..*****.******.***...*.****..**********97
+ENSBTAG00000047988           .G.DVMP.N..ADSTW.YLRVTL.DVA...A.GEVA..GLSCQVKHSSLG
+#=GR ENSBTAG00000047988   PP .9.9999.*..*****.******.***...*.****..**********97
+bt_CD1B3                     .G.DLMP.N..ADWTW.YLRVTL.NVA...A.GEAA..GLNCRVKHSSLG
+#=GR bt_CD1B3             PP .8.9999.*..*****.******.***...*.****..**********97
+ENSBTAG00000038426           .G.DIMP.N..ADWTW.YLRVTL.NVA...A.GEAA..GLNCRVKHSSLG
+#=GR ENSBTAG00000038426   PP .9.9999.*..*****.******.***...*.****..*********995
+ENSBTAG00000039189           .G.DIMP.N..ADWTW.YLRVTL.D--...-.----..------------
+#=GR ENSBTAG00000039189   PP .9.9999.*..*****.**9998.5.........................
+ENSSHAG00000000117           .I.ETRP.A..GDGTF.QKWAAV.GVP...S.GQEG..RYTCRVQHEGLP
+#=GR ENSSHAG00000000117   PP .*.****.*..*****.******.***...*.9999..************
+sh_SAHA-I                    .I.ETRP.A..GDGTF.QKWAAV.GVT...S.GQEG..KYTCRVQHEGLP
+#=GR sh_SAHA-I            PP .*.****.*..*****.******.***...9.9999..9***********
+ENSSHAG00000002942           .I.ETRP.A..GDGTF.QKWVAV.EVT...S.GQEG..NYICRVQHEGLP
+#=GR ENSSHAG00000002942   PP .*.****.*..*****.******.***...9.8888..9***********
+ENSSHAG00000001982           .I.ETRP.G..GDGTF.QKWAAV.EMP...F.RNEE..KYTCLIQHEGLP
+#=GR ENSSHAG00000001982   PP .*.****.*..*****.******.***...*.****..***********9
+sh_MR1                       .G.DILP.S..GDGTY.QTWISI.EID...P.QSKD..HYFCQVEHND--
+#=GR sh_MR1               PP .*.****.*..*****.******.***...*.****..********75..
+sh_AZGP1                     .T.QII-.-..GNGTY.QVSITV.NIP...L.LKKK..SYSCHVVHESLP
+#=GR sh_AZGP1             PP .9.999.....89***.******.***...*.****..***********9
+sh_FCGRT                     .L.EPWP.N..GDGTF.HSRGTL.QVP...S.GDEA..LYSCTVQHPALT
+#=GR sh_FCGRT             PP .*.****.*..*****.******.***...*.****..***********9
+ENSSHAG00000015612           .G.GIILpS..GDGTY.QTWVST.DVY...S.EKSN..-YTCHGEHQGRN
+#=GR ENSSHAG00000015612   PP .9.99888*..*****.******.*98...7.6665...*******9988
+ENSSHAG00000017227           .-.----.-..-----.------.E--...-.----..------------
+#=GR ENSSHAG00000017227   PP ........................0.........................
+ENSSHAG00000004293           .S.SGILpN..ADATF.YLRVTL.ELP...PsDPGT..GYTCVVEHSELE
+#=GR ENSSHAG00000004293   PP .6.65555*..*****.******.***...6489**..**********99
+sh_HFE                       .G.DIYP.S..EDETF.QVWTAV.DIT...P.GEEQ..RYAYQIEHMGLI
+#=GR sh_HFE               PP .*.****.*..*****.******.***...*.****..********9996
+ENSSHAG00000003889           .S.SGVLpN..ADSTF.YQRITI.ELL...PeDMGT..DYDCVVDHIEL-
+#=GR ENSSHAG00000003889   PP .6.66555*..*****.******.***...735688..********766.
+ENSSHAG00000004579           .S.SGILpN..ADATF.YLQVTL.ELP...PsDPGT..GYTCVVEHSELE
+#=GR ENSSHAG00000004579   PP .6.65555*..*****.******.***...6489**..***********9
+ENSSHAG00000003654           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSSHAG00000003654   PP ..................................................
+ENSSHAG00000004299           .S.SGILpN..MDSTF.YLRLTL.ELP...PeDSGT..GFTCVVEHTELK
+#=GR ENSSHAG00000004299   PP .6.55555*..*****.******.***...747899..***********9
+ENSSHAG00000007260           .T.GILP.N..MDSTF.YLRLTL.ELP...PeDPGM..NFTCVVEHVALK
+#=GR ENSSHAG00000007260   PP .6.6677.*..*****.******.***...747899..***********9
+ENSSHAG00000002090           .S.GTLP.N..SDDTF.YLRISL.EIQ...PgDSVT..DYACIVEHSELE
+#=GR ENSSHAG00000002090   PP .6.7777.*..*****.******.***...857778..9**********9
+ENSSHAG00000003088           sS.GTLP.N..ADSTF.YLQITL.ELP...PgDSGT..GYSCVVEHSKLQ
+#=GR ENSSHAG00000003088   PP 05.5666.*..*****.******.***...7699**..***********9
+sh_PROCR                     .-.----.-..-----.------.---...-.---K..------------
+#=GR sh_PROCR             PP ...................................2..............
+ENSSHAG00000006681           .S.GTLP.N..ADSTY.YLHVTL.KLP...PeDPGK..GYACLIEHSELE
+#=GR ENSSHAG00000006681   PP .6.6777.*..*****.******.***...74789*..***********9
+ENSSHAG00000007033           .S.GTLP.N..ADATF.YLQLTV.ELE..lS.DTGD..GYTCVVEHCELG
+#=GR ENSSHAG00000007033   PP .6.6777.*..*****.******.***..88.9***..********8775
+ENSSHAG00000007630           .S.DLLP.N..SDGTW.WIQVIL.IVE...A.GNTA..NLACRVEHSSLG
+#=GR ENSSHAG00000007630   PP .6.7777.9..*****.******.***...*.****..**********96
+cf_DLA-12                    .V.DTRP.A..GDGTF.QKWAAV.VVP...S.GQEQ..RYTCHVQHEGLA
+#=GR cf_DLA-12            PP .*.****.*..*****.******.***...*.****..************
+cf_DLA88__2                  .V.DTRP.A..GDGTF.QKWAAV.VVP...S.GQEQ..RYTCHVQHEGLA
+#=GR cf_DLA88__2          PP .*.****.*..*****.******.***...*.****..************
+cf_DLA88__1                  .V.ETRP.A..GDGTF.QKWAAV.VVP...S.GQEQ..RYTCHVQHEGLA
+#=GR cf_DLA88__1          PP .*.****.*..*****.******.***...*.****..************
+cf_DLA-64                    .V.DTRP.A..GDGTF.QKWAAV.VVP...S.GQEQ..RYTCHVQHEGLA
+#=GR cf_DLA-64            PP .*.****.*..*****.******.***...*.****..************
+cf_DLA-79                    .V.ETRP.G..GDGTF.QKWAAV.VVP...S.GEEQ..RYTCHILHKSLP
+#=GR cf_DLA-79            PP .*.****.*..*****.******.***...*.****..************
+cf_AZGP1                     .G.ALLP.S..GNNTY.QAWVVM.SAS...P.QDLAsfSYSCLVKHSSLS
+#=GR cf_AZGP1             PP .6.7777.9..*****.******.***...9.8877779***********
+cf_FCGRT                     .G.DFGP.N..GDGSF.HAWSSL.TVK...S.GDEH..HYRCLVQHAGLP
+#=GR cf_FCGRT             PP .8.8888.9..*****.******.***...*.****..************
+cf_HFE                       .K.DVLP.N..GDGTY.QRWVAL.AVA...P.GEEQ..RYTCQVEHPGLD
+#=GR cf_HFE               PP .6.6777.*..*****.******.***...*.****..************
+cf_RAET1E                    .-.----.-..-----.----Q-.---...-.----..------------
+#=GR cf_RAET1E            PP .....................3............................
+cf_CD1A8                     .G.DVLP.H..ADGTW.YLQVSL.DVK...A.KEAA..GLSCRVRHSSLG
+#=GR cf_CD1A8             PP .8.8888.9..*****.******.***...*.****..*********996
+ENSCAFG00000023735           .S.DILP.N..TDGTW.YLQVSL.DVK...S.KEAA..GLSCRVRHSSLG
+#=GR ENSCAFG00000023735   PP .8.8888.*..*****.******.***...*.****..*********996
+cf_CD1D__1                   .G.DILP.H..ADGTW.YLRVTL.DVA...A.REAA..GLSCRVKHSSLG
+#=GR cf_CD1D__1           PP .9.9999.*..*****.******.***...*.****..**********96
+cf_CD1D__2                   .G.DVLP.H..ADGTW.YLRVTL.DVA...A.REAA..GLSCRVKHSSLG
+#=GR cf_CD1D__2           PP .9.9999.9..*****.******.***...*.****..*********996
+cf_CD1E                      .G.DFLP.H..ADGTW.YLRATL.DVA...A.REAA..GLSCRVKHSSLG
+#=GR cf_CD1E              PP .9.9999.*..*****.******.***...*.****..*********996
+cf_CD1A6                     .G.DVLP.H..ADGTW.YLQVSL.DVK...A.KEVA..GLSCRVRHSSLG
+#=GR cf_CD1A6             PP .9.9999.9..*****.******.***...*.****..*********996
+cf_CD1B                      .G.DVLP.H..ADGTW.YLRATL.DVA...A.QEAA..GLSCRVKHSSLG
+#=GR cf_CD1B              PP .9.9999.9..*****.******.***...*.****..*********996
+hs_HLA-B                     .V.ETRP.A..GDRTF.QKWAAV.VVP...S.GEEQ..RYTCHVQHEGLP
+#=GR hs_HLA-B             PP .*.****.*..*****.******.***...*.****..************
+hs_HLA-A                     .V.ETRP.A..GDGTF.QKWAAV.VVP...S.GEEQ..RYTCHVQHEGLP
+#=GR hs_HLA-A             PP .*.****.*..*****.******.***...*.****..************
+hs_HLA-C                     .V.ETRP.A..GDGTF.QKWAAV.VVP...S.GQEQ..RYTCHMQHEGLQ
+#=GR hs_HLA-C             PP .*.****.*..*****.******.***...*.****..************
+hs_HLA-G                     .V.ETRP.A..GDGTF.QKWAAV.VVP...S.GEEQ..RYTCHVQHEGLP
+#=GR hs_HLA-G             PP .*.****.*..*****.******.***...*.****..************
+hs_HLA-E                     .V.ETRP.A..GDGTF.QKWAAV.VVP...S.GEEQ..RYTCHVQHEGLP
+#=GR hs_HLA-E             PP .*.****.*..*****.******.***...*.****..************
+hs_HLA-F                     .V.ETRP.A..GDGTF.QKWAAV.VVP...P.GEEQ..RYTCHVQHEGLP
+#=GR hs_HLA-F             PP .*.****.*..*****.******.***...*.****..************
+hs_AZGP1                     .G.DVLH.N..GNGTY.QSWVVV.AVP...P.QDTA..PYSCHVQHSSLA
+#=GR hs_AZGP1             PP .8.8888.*..*****.******.***...*.****..***********9
+hs_MR1                       .G.DILP.S..GDGTY.QAWASI.ELD...P.QSSN..LYSCHVEHCGVH
+#=GR hs_MR1               PP .*.****.*..*****.******.***...*.****..********8865
+hs_HFE                       .P.KDVLpN..GDGTY.QGWITL.AVP...P.GEEQ..RYTCQVEHPGLD
+#=GR hs_HFE               PP .8.88877*..*****.******.***...*.****..***********9
+hs_FCGRT                     .G.DFGP.N..SDGSF.HASSSL.TVK...S.GDEH..HYCCIVQHAGLA
+#=GR hs_FCGRT             PP .7.7888.8..9****.******.***...*.****..***********9
+hs_MICA                      .W.GDVLpD..GNGTY.QTWVAT.RIC...R.GEEQ..RFTCYMEHSGNH
+#=GR hs_MICA              PP .5.55544*..*****.******.***...*.****..*********998
+hs_MICB                      wG.DVLP.D..GNGTY.QTWVAT.RIR...Q.GEEQ..RFTCYMEHSGNH
+#=GR hs_MICB              PP 16.6666.*..*****.******.***...*.****..*********987
+hs_ULBP2                     .-.----.-..---N-.------.---...-.----..------------
+#=GR hs_ULBP2             PP ..............0...................................
+hs_ULBP3                     .-.----.-..-----.------.---...-.----..------------
+#=GR hs_ULBP3             PP ..................................................
+hs_RAET1L                    .-.-E--.-..-----.------.---...-.----..------------
+#=GR hs_RAET1L            PP ....1.............................................
+hs_ULBP1                     .-.----.-..-----.-----V.---...-.----..------------
+#=GR hs_ULBP1             PP ......................0...........................
+hs_RAET1G                    .-.----.-..-----.------.---...-.----..------------
+#=GR hs_RAET1G            PP ..................................................
+hs_RAET1E                    .-.----.-..-----.------.---...-.----..------------
+#=GR hs_RAET1E            PP ..................................................
+hs_CD1A                      .G.DILP.S..ADGTW.YLRATL.EVA...A.GEAA..DLSCRVKHSSLE
+#=GR hs_CD1A              PP .9.99**.*..*****.******.***...*.****..**********98
+hs_PROCR                     .F.TLQQlNayNRTRY.ELREFL.E--...-.----..------------
+#=GR hs_PROCR             PP .6.6666555455556.666555.5.........................
+hs_CD1D                      .G.DILP.N..ADETW.YLRATL.DVV...A.GEAA..GLSCRVKHSSLE
+#=GR hs_CD1D              PP .*.****.*..*****.******.***...*.****..**********98
+hs_CD1C                      .G.DILP.N..ADGTW.YLQVIL.EVA...S.EEPA..GLSCRVRHSSLG
+#=GR hs_CD1C              PP .8.9999.*..*****.******.***...*.****..**********96
+hs_CD1B                      .G.DILP.N..ANWTW.YLRATL.DVA...D.GEAA..GLSCRVKHSSLE
+#=GR hs_CD1B              PP .*.****.*..*****.******.***...*.****..**********98
+hs_CD1E                      .G.DVLP.N..ADETW.YLRATL.DVA...A.GEAA..GLSCRVKHSSLG
+#=GR hs_CD1E              PP .9.9999.*..*****.******.***...*.****..*********996
+ENSACAG00000011070           .G.LVSP.N..SDGTY.YTWRSV.TVD...P.KESE..RYKCHVEHDGLP
+#=GR ENSACAG00000011070   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000006478           .G.LVSP.N..SDGTY.YTWRSV.MVD...P.KESE..RYKCHVEHDGLP
+#=GR ENSACAG00000006478   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000017226           .G.LVSP.N..SDGTY.YTWRSV.KVD...P.KERE..RYKCHVEHDGLP
+#=GR ENSACAG00000017226   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000006674           .G.LVSP.N..SDGTY.YTWRSV.TVD...P.KERE..RYKCHVEHDGLP
+#=GR ENSACAG00000006674   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000000562           .G.LVSP.N..SDGTY.YTWWNV.TVD...P.KEKE..RYKCHVEHDGLL
+#=GR ENSACAG00000000562   PP .*.****.*..*****.******.***...*.****..**********98
+ENSACAG00000024528           .G.LVSP.N..SDGTY.YTWRSI.KVD...P.KESE..HYKCHMEHDGLP
+#=GR ENSACAG00000024528   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000023667           .G.LVSP.N..SDGTY.YTWRSV.TVD...P.KERE..RYTCHVEHDGLP
+#=GR ENSACAG00000023667   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000027871           .G.LVSP.N..SDGTY.YTWRSI.TVD...P.KERE..RYKCHVEHDGLP
+#=GR ENSACAG00000027871   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000022657           .G.LVSP.N..SDGTY.YTWWNV.TVD...P.KEKE..RYKCHVEHDGLL
+#=GR ENSACAG00000022657   PP .*.****.*..*****.******.***...*.****..**********98
+ENSACAG00000022634           .G.LVSP.N..SDGTY.YTWRSI.TVD...P.KERE..RYKCHVEHDGLP
+#=GR ENSACAG00000022634   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000011968           .R.NIAP.N..SDGTY.HTWLSI.EID...P.KEMD..LLRCHLEHASLS
+#=GR ENSACAG00000011968   PP .9.9999.*..*****.******.***...*.****..***********9
+ENSACAG00000006498           .G.GIAP.N..ADGTY.HTWLSI.EVD...T.KDRD..LYRCHVEHDSLP
+#=GR ENSACAG00000006498   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000029516           .G.NITP.N..SDGTY.NTWISI.EVD...E.KDRD..KYQCHVEHDSLP
+#=GR ENSACAG00000029516   PP .8.9999.*..*****.******.***...*.****..**********98
+ENSACAG00000024638           .G.GILP.N..ADGTY.HTWISI.EVE...P.KERD..RYRCHVEHDSLE
+#=GR ENSACAG00000024638   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000024081           .G.LVSP.N..SDGTY.YTWRSI.TVD...P.KERE..RYQCHVEHNGL-
+#=GR ENSACAG00000024081   PP .*.****.*..*****.******.***...*.****..********987.
+ENSACAG00000025947           .G.LVSP.N..SDGTY.YTWRSI.TVD...P.KERE..RYQCHVEHDGL-
+#=GR ENSACAG00000025947   PP .*.****.*..*****.******.***...*.****..********987.
+ENSACAG00000003088           .G.LVSP.N..SDGTY.YTWRSI.TVD...P.KERE..RYQCHVEHDGLL
+#=GR ENSACAG00000003088   PP .*.****.*..*****.******.***...*.****..**********98
+ENSACAG00000006471           .G.GVVP.N..SDGTF.HTWLRL.EVD...P.KDRD..LYRCHVDHAALE
+#=GR ENSACAG00000006471   PP .*.****.*..*****.******.***...*.****..***********9
+ENSACAG00000024309           .G.LVSP.N..SDGTY.YTWRSI.TVD...P.KERE..RYKCHVEHDGLL
+#=GR ENSACAG00000024309   PP .*.****.*..*****.******.***...*.****..**********98
+ENSACAG00000003922           .V.KVVP.N..ADGTY.QARLTI.QVD...P.TEAQ..HYECHIDHASLN
+#=GR ENSACAG00000003922   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000000468           .G.NVTP.N..FDGTF.YTWLRI.TVD...P.KERS..NFQCRMEHEMLK
+#=GR ENSACAG00000000468   PP .*.****.*..*****.******.***...*.****..************
+ENSACAG00000024939           .-.----.-..N----.------.---...-.----..------------
+#=GR ENSACAG00000024939   PP ...........0......................................
+ENSACAG00000025539           .D.ETEVsR..NSEQF.------.---...-.----..------------
+#=GR ENSACAG00000025539   PP .6.666634..44444..................................
+ENSACAG00000011395           .S.TTILhN..YDLTY.QIRSSL.AIK..sM.ETSH..SYVCRIQHSSLD
+#=GR ENSACAG00000011395   PP .7.77776*..*****.******.***..88.9999..**********97
+mm_H2-Q10                    .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..NYTCHVYHEGLP
+#=GR mm_H2-Q10            PP .*.****.*..*****.******.***...*.****..************
+mm_Gm8909                    .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..NYTCHVYHEGLP
+#=GR mm_Gm8909            PP .*.****.*..*****.******.***...*.****..************
+mm_H2-Q7                     .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..NYTCHVNHEGLP
+#=GR mm_H2-Q7             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-K1                     .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..YYTCHVYHQGLP
+#=GR mm_H2-K1             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-D1                     .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..NYTCRVYHEGLP
+#=GR mm_H2-D1             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-Q4                     .V.ETRP.S..GDGTF.QKWASV.VVP...L.GKEQ..NYTCHVHHEGLP
+#=GR mm_H2-Q4             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-Q6                     .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..NYTCHVNHEGLP
+#=GR mm_H2-Q6             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-T23                    .V.ETRP.A..GDGTF.QKWAAV.VVP...L.GKEQ..YYTCHVYHEGLP
+#=GR mm_H2-T23            PP .*.****.*..*****.******.***...*.****..************
+mm_H2-Q2                     .V.ETRP.S..GDGTF.QKWASV.MVP...F.GEEP..RYTCHVEHEGLP
+#=GR mm_H2-Q2             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-Q1                     .V.ETRP.A..GDGTF.QKWASV.VVP...L.GKEQ..NYTCHVYHEGLP
+#=GR mm_H2-Q1             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-Bl                     .V.ETRP.A..GDGTF*KWA-AV.VVP...L.GKEQ..NYTCHVYHEGLP
+#=GR mm_H2-Bl             PP .*.****.*..****99754.56.688...8.8999..9***********
+mm_H2-T3                     .V.ETRP.A..GDGTF.QKWAAV.VVP...L.GKEQ..KYTCHVYHEGLP
+#=GR mm_H2-T3             PP .*.****.*..*****.******.***...*.****..************
+mm_Gm7030                    .V.ETRP.A..GDGTF.QKWAAV.VVP...F.GEEP..RYTCHVYH----
+#=GR mm_Gm7030            PP .*.****.*..*****.******.***...*.****..******99....
+mm_Gm11127                   .V.ETRP.A..GDGTF.QKWAAV.VVP...L.GKEQ..NYTCHVHHEGLP
+#=GR mm_Gm11127           PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M2                     .I.ETRP.A..GDGTF.QKWVAV.VVP...S.GKEQ..NYTCHVAHEGLP
+#=GR mm_H2-M2             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M3                     .V.ETRP.S..GDGTF.QKWAAV.VVP...S.GEEQ..RYTCYVHHEGLT
+#=GR mm_H2-M3             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M5                     .I.ETRP.A..GDGTF.QKWASV.VVP...S.GEEQ..RYTCHVQHEGLT
+#=GR mm_H2-M5             PP .*.****.*..*****.******.***...*.****..************
+mm_Azgp1                     .G.-VFP.N..GNGTY.LSWAEV.EVS...P.QDID..PFFCLIDHRGFS
+#=GR mm_Azgp1             PP .5..555.9..*****.******.***...*.****..*********998
+mm_Mr1                       .G.GVLP.S..GDGTY.QTWLSV.NLD...P.QSND..VYSCHVEHCG--
+#=GR mm_Mr1               PP .*.****.*..*****.******.***...*.****..********76..
+mm_Fcgrt                     .T.G--P.N..GDGSF.HAWSLL.EVK...R.GDEH..HYQCQVEHEGLA
+#=GR mm_Fcgrt             PP .6.5..5.6..9****.******.***...*.****..************
+mm_H2-M10.1                  .P.DTRP.A..GDGTF.QKWAAV.VVP...S.GEEL..RYTCHVHHEGLP
+#=GR mm_H2-M10.1          PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M10.3                  .P.DTRP.A..GDGTF.QKWAAV.VVP...S.GEEL..RYTCHVHHEGLP
+#=GR mm_H2-M10.3          PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M10.2                  .P.DTRP.A..GDGTF.QKWAAV.VVP...S.GEEL..RYTCHVHHEGLP
+#=GR mm_H2-M10.2          PP .*.****.*..*****.******.***...*.****..************
+mm_H2-T10                    .V.ETRP.A..GDGTF.QKWAAV.VVP...L.GKVQ..SYTCHVDHEGLP
+#=GR mm_H2-T10            PP .*.****.*..*****.******.***...*.****..************
+mm_H2-T22                    .V.ETRP.A..GDGTF.QKWAAV.VVP...L.GKEQ..SYTCHVYHEGLP
+#=GR mm_H2-T22            PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M10.6                  .P.DTRP.A..GDGTF.QKWAAV.VVP...P.GEEL..RYTCHVNHEGLP
+#=GR mm_H2-M10.6          PP .*.****.*..*****.******.***...*.****..***********9
+mm_H2-M1                     .I.ETRP.S..GDGTF.QKWAAV.VVS...T.GEEH..IYTCHVNHEGLS
+#=GR mm_H2-M1             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-T24                    .V.ETRP.S..GDGTF.QKWAAV.VVP...S.GEEQ..RYTCHVQHEALT
+#=GR mm_H2-T24            PP .*.****.*..*****.******.***...*.****..************
+mm_Hfe                       .P.EKVLpN..GDETY.QGWLTL.AVA...P.GDET..RFTCQVEHPGLD
+#=GR mm_Hfe               PP .7.66666*..*****.******.***...*.****..************
+mm_H2-M10.4                  .P.DTRP.A..GDGTF.QKWAAV.VVP...F.GEEL..RYTCHVHHEGLP
+#=GR mm_H2-M10.4          PP .*.****.*..*****.******.***...*.****..***********9
+mm_H2-M9                     .I.EIRP.S..GDGTF.QKWAAV.VVS...S.GEEH..RYTCHVNHEGLS
+#=GR mm_H2-M9             PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M10.5                  .P.DTRP.A..GDGTF.QKWAAV.VVP...S.GEEL..RYTCHVHHKGLP
+#=GR mm_H2-M10.5          PP .*.****.*..*****.******.***...*.****..************
+mm_H2-M11                    .T.ETMP.T..GDGTF.QKWAAV.VVL...S.GEEH..RYKCHVNHEGLP
+#=GR mm_H2-M11            PP .*.****.*..*****.******.***...*.****..************
+mm_Mill2                     .S.ETILpS..GDGTY.QARVSI.RVL...P.GQEP..QFSCNLRHG---
+#=GR mm_Mill2             PP .9.98888*..*****.******.***...*.****..******995...
+mm_Mill1                     .S.ETILpS..GDGTY.QAWVSI.RVL...P.GQES..QFSCNLKHGN--
+#=GR mm_Mill1             PP .8.88887*..*****.******.***...*.****..*******965..
+mm_Cd1d1                     .G.DFLP.N..ADETW.YLQATL.DVE...A.GEEA..GLACRVKHSSLG
+#=GR mm_Cd1d1             PP .*.****.*..*****.******.***...*.****..**********96
+mm_Cd1d2                     .G.DFLP.N..ADETW.YLQATL.DVE...A.GEEA..GLACRVKHSSLG
+#=GR mm_Cd1d2             PP .*.****.*..*****.******.***...*.****..**********96
+ENSMODG00000010596           .I.ETRP.G..GDGTF.QKWAAV.AMA...P.GQED..RYSCRVQHEALA
+#=GR ENSMODG00000010596   PP .*.****.*..*****.******.***...*.****..***********9
+md_MODO-UC                   .I.ETRP.G..GDGTF.QKWAAV.AMA...P.GQED..RYSCRVQHEALA
+#=GR md_MODO-UC           PP .*.****.*..*****.******.***...*.****..***********9
+md_MODO-UB                   .I.ETRP.G..GDGTF.QKWAAV.AMA...P.GQED..RYSCRVQHEALA
+#=GR md_MODO-UB           PP .*.****.*..*****.******.***...*.****..***********9
+md_MHC-I                     .I.ETRP.G..GDGTF.QKWAAV.AMA...P.GQED..RYSCRVQHEALA
+#=GR md_MHC-I             PP .*.****.*..*****.******.***...*.****..***********9
+ENSMODG00000014839           .I.ETRP.G..GDGTF.QKWAAV.AMA...P.GQED..RYSCRVQHEALA
+#=GR ENSMODG00000014839   PP .*.****.*..*****.******.***...*.****..***********9
+ENSMODG00000014336           .I.ETRP.G..GDGTF.QKWAAV.AMA...P.GQED..RYSCRVQHEALA
+#=GR ENSMODG00000014336   PP .*.****.*..*****.******.***...*.****..***********9
+md_MODO-UE                   .I.ETRP.A..GDGTF.QKWAAV.EML...S.GSEH..KYTCRVQHEGLP
+#=GR md_MODO-UE           PP .*.****.*..*****.******.***...*.****..************
+md_MR1                       .G.DILP.S..GDGTY.QTWVSI.DID...P.QSKD..HYSCQVEHNN--
+#=GR md_MR1               PP .*.****.*..*****.******.***...*.****..********75..
+md_AZGP1                     .I.QPI-.-..GDGTY.QTWITA.EIP...S.SKKN..SYSCHVVHESS-
+#=GR md_AZGP1             PP .5.555.....9****.******.***...*.****..*********97.
+md_HFE                       .G.DIHP.S..GDGTF.QIM-TV.AIT...P.GEEW..RYACQVEHPGLD
+#=GR md_HFE               PP .*.****.*..*****.*98.68.899...9.9999..9**********9
+md_MIC-like                  .-.----.-..-----.------.---...-.----..------------
+#=GR md_MIC-like          PP ..................................................
+md_FCGRT                     .A.EPWP.N..RDGAF.HSQATL.QVQ...R.GDEA..RYSCEVRHPALA
+#=GR md_FCGRT             PP .*.****.*..*****.******.***...*.****..***********9
+md_MILL-LIKE                 .S.GILRpS..GDGTY.QTSVSI.YAN...P.KELN..-YKCHVEHQGKN
+#=GR md_MILL-LIKE         PP .*.**999*..*****.******.***...*.9998...********988
+ENSMODG00000015810           .S.QSVRpQ..GDGTY.QSYVNV.EVP...S.EEES..RYACLVEHQALN
+#=GR ENSMODG00000015810   PP .9.99988*..*****.******.***...*.****..**********98
+ENSMODG00000015798           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSMODG00000015798   PP ..................................................
+ENSMODG00000028158           .-.----.-..-E---.------.---...-.----..------------
+#=GR ENSMODG00000028158   PP ............3.....................................
+md_MODO-UG                   .-.----.-..-----.------.---...-.----..---CEV------
+#=GR md_MODO-UG           PP .........................................333......
+ENSMODG00000011424           sS.GTLP.N..ADATF.YLQVTL.ELP...PgDPGT..GYICVVEHSELE
+#=GR ENSMODG00000011424   PP 05.6666.*..*****.******.***...7699**..**********99
+ENSMODG00000024063           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSMODG00000024063   PP ..................................................
+ENSMODG00000023068           .S.SGLLpN..ADSTF.YQRVFI.ELP...PeETGT..NYDCVVEHIELG
+#=GR ENSMODG00000023068   PP .8.87777*..*****.******.***...747899..********9887
+ENSMODG00000023744           .-.----.-..-----.------.---...-.---K..MFGCEVSAN---
+#=GR ENSMODG00000023744   PP ...................................5..677887655...
+ENSMODG00000029679           .-.----.-..TTGTY.TVT---.---...-.----..------------
+#=GR ENSMODG00000029679   PP ...........33444.444..............................
+ENSMODG00000011403           sS.GTLP.N..ADSTF.YLQITL.ELP...PgDSGA..GYACVVEHNKLQ
+#=GR ENSMODG00000011403   PP 05.5666.*..*****.******.***...7699**..***********9
+ENSMODG00000027380           .-.----.-..----Y.------.---...-.----..------------
+#=GR ENSMODG00000027380   PP ...............0..................................
+ENSMODG00000011316           sS.GTLP.N..MDSTF.YLKVTL.ELP...PeDSGA..GYTCVVEHSELK
+#=GR ENSMODG00000011316   PP 05.5666.*..*****.******.***...747899..***********9
+ENSMODG00000011387           sS.GTLP.N..MDSTF.YLKVTL.ELP...PeDSGA..GYTCVVEHSELK
+#=GR ENSMODG00000011387   PP 05.5666.*..*****.******.***...747899..***********9
+ENSMODG00000011414           .S.GILP.N..SDDTF.YLQISL.EVQ...PgEPRT..GYACVVDHSQLE
+#=GR ENSMODG00000011414   PP .9.9999.*..*****.******.***...769999..***********9
+ENSOANG00000003172           .V.DTRP.S..GDGNF.QKWASV.SVP...R.GEEL..KYVCIVEHEGLA
+#=GR ENSOANG00000003172   PP .*.****.*..*****.******.***...*.****..***********9
+ENSOANG00000005224           .V.ETRP.G..GDGTF.QKWTAVvGVS...H.GQEQ..RYVCVVDHDGLA
+#=GR ENSOANG00000005224   PP .*.****.*..*****.*987651677...9.9***..***********9
+ENSOANG00000001863           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSOANG00000001863   PP ..................................................
+ENSOANG00000003581           .V.GSRP.G..GDGTY.QSWGAV.EVP...S.GEEH..RYTCRVEHLGLE
+#=GR ENSOANG00000003581   PP .*.****.*..*****.******.***...*.****..***********9
+ENSOANG00000008306           .-.----.-..--S--.------.---...-.----..------------
+#=GR ENSOANG00000008306   PP .............1....................................
+ENSOANG00000015040           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSOANG00000015040   PP ..................................................
+ENSOANG00000001818           .S.KARP.S..GDGTY.QKWASV.EIP...P.GEKE..KYICRVKHGELS
+#=GR ENSOANG00000001818   PP .*.****.*..*****.******.***...*.****..********9987
+ENSOANG00000003398           .V.GTRP.S..GDGNF.QKWASV.NVP...R.GEEQ..KYVCVVEHEGLA
+#=GR ENSOANG00000003398   PP .*.****.*..*****.******.***...*.****..***********9
+ENSOANG00000029890           .-.----.-..-----.------.---...-.----..---CEVEDN---
+#=GR ENSOANG00000029890   PP .........................................555433...
+ENSOANG00000004202           .V.ETRP.S..-----.------.---...-.----..------------
+#=GR ENSOANG00000004202   PP .8.8877.5.........................................
+ENSOANG00000002636           .V.GTRP.S..GDGNF.QKWASV.NVP...R.GEER..KYVCVVEHEGLG
+#=GR ENSOANG00000002636   PP .*.****.*..*****.******.***...*.****..***********9
+ENSOANG00000022269           .-.----.-..----F.------.---...-.----..------------
+#=GR ENSOANG00000022269   PP ...............0..................................
+ENSOANG00000012222           sS.GTLP.N..ADDTF.YLRQTL.ELR...A.EVGD.sSYVCLVEHSTLG
+#=GR ENSOANG00000012222   PP 05.5666.*..*****.******.***...9.9999.89*********97
+ENSOANG00000015154           .S.GTLP.N..ADFSF.YVRQTL.EVQ...G.EVGD.sGYACVVEHSALD
+#=GR ENSOANG00000015154   PP .7.7778.*..*****.******.***...8.8888.68*********98
+ENSOANG00000007216           .SsGTLP.N..ADDTF.YLRQTL.QLR...A.EAGN.pSYACLVEHSILG
+#=GR ENSOANG00000007216   PP .505666.*..*****.******.***...*.****.9********9886
+ENSOANG00000021638           .S.GTLP.N..ADSSF.YLRQTL.EVR...E.EAGD.tGYSCVVEHSTLE
+#=GR ENSOANG00000021638   PP .5.6677.*..*****.******.***...9.9999.67*********98
+ENSOANG00000022751           .S.STLP.N..ANGTF.YLHQTL.ELQ...A.KTGN.sDYACLVEHSTLQ
+#=GR ENSOANG00000022751   PP .6.7777.9..*****.******.***...9.9888.79**********9
+tn_mhc1zea                   .G.DVRP.N..GDGTY.QKRDQV.EIP...K.SDKS..KYTCEVIHESS-
+#=GR tn_mhc1zea           PP .5.5667.8..*****.******.***...*.****..********996.
+ENSTNIG00000001085           .G.EILP.N..PDGTF.QMSAAL.DLSsvpP.EDWS..SYKCVFQLSGGQ
+#=GR ENSTNIG00000001085   PP .*.****.*..*****.******.****999.****..*****9988866
+ENSTNIG00000005106           .G.EILP.N..PDGTF.QMSAAL.DLSsvpP.EDWS..SYKCVFQLSGGQ
+#=GR ENSTNIG00000005106   PP .*.****.*..*****.******.****999.****..*****9988866
+ENSTNIG00000001016           .G.EILP.N..PDGTF.QMSAAL.DLSsvpP.EDWS..SYKCVFQLSGGQ
+#=GR ENSTNIG00000001016   PP .*.****.*..*****.******.****999.****..*****9998866
+ENSTNIG00000003024           .G.EILP.N..PDGTF.QMSAAL.DL-...-.----..------------
+#=GR ENSTNIG00000003024   PP .*.****.*..*****.***999.86........................
+ENSTNIG00000009992           .T.EILP.N..HDGTF.QTRVDL.ELSsvsP.EEWS..RYECVFHPPGDQ
+#=GR ENSTNIG00000009992   PP .*.****.*..*****.******.*****9*.****..****87665555
+ENSTNIG00000000474           .G.EILP.N..PDGTF.QMSAAL.DLSsvpP.EDWS..SYKCVFQLSGGQ
+#=GR ENSTNIG00000000474   PP .*.****.*..*****.******.****999.****..*****9998866
+ENSTNIG00000004145           .G.EILP.N..PDGTF.QMSAAL.DLSsvpP.EDWS..SYKCVFQLSGGQ
+#=GR ENSTNIG00000004145   PP .*.****.*..*****.******.****999.****..*****9998866
+ENSTNIG00000001973           .G.EILP.N..PDGTF.QMSAAL.DLSsvpP.EDWS..SYKCVFQLSGGQ
+#=GR ENSTNIG00000001973   PP .*.****.*..*****.******.****999.****..*****9998866
+ENSTNIG00000004925           .R.RAQP.R..QEWM-.------.---...-.----..------------
+#=GR ENSTNIG00000004925   PP .6.6655.6..6664...................................
+ENSMGAG00000005937           .G.GIVP.N..SDGTY.HASATI.DVP...P.GDWD..KYQCRVEHASLL
+#=GR ENSMGAG00000005937   PP .*.****.*..*****.******.***...*.****..*********996
+ENSMGAG00000006286           .G.RIVP.N..SDSTC.HASATI.DVL...P.-DGD..KYRCRVEHASLP
+#=GR ENSMGAG00000006286   PP .*.****.*..*****.******.**9...9..899..9**********9
+ENSMGAG00000009766           .G.GIAP.N..SDGTY.HTLVTI.DAR...P.EDWD..KYQCRVEHASLQ
+#=GR ENSMGAG00000009766   PP .*.****.*..*****.******.***...*.****..***********9
+ENSMGAG00000016965           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSMGAG00000016965   PP ..................................................
+ENSMGAG00000009608           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSMGAG00000009608   PP ..................................................
+mg_PROCR                     .-.----.-..--S--.------.---...-.----..------------
+#=GR mg_PROCR             PP .............0....................................
+ENSMEUG00000016222           .I.ETRP.A..GDGTF.QKWADV.HVT...S.GEEE..RYTCRVQHEGLS
+#=GR ENSMEUG00000016222   PP .*.****.*..*****.******.***...*.****..************
+ENSMEUG00000012186           .I.ETRP.A..GDGTF.QKWAAV.GIT...S.GQEG..KYACRVQHEGLS
+#=GR ENSMEUG00000012186   PP .9.9999.*..*****.******.***...9.9999..9***********
+ENSMEUG00000007887           .I.ETRP.A..GDGTF.QKWAAV.RIT...S.GQEG..KYACRVQHEGLS
+#=GR ENSMEUG00000007887   PP .*.****.*..*****.******.***...9.9999..9***********
+ENSMEUG00000002955           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSMEUG00000002955   PP ..................................................
+ENSMEUG00000001234           .I.ETRP.A..GDGTF.QKWAAL.GML...S.GSEQ..KYTCRVQHEGLP
+#=GR ENSMEUG00000001234   PP .*.****.*..*****.******.***...*.****..************
+ENSMEUG00000012694           .I.ETRP.A..GDGTF.QKWAAV.QMT...S.GQED..KYTCLVQHQGLS
+#=GR ENSMEUG00000012694   PP .*.****.*..*****.******.***...*.****..************
+me_HFE                       .-.----.-..-----.------.---...-.----..------------
+#=GR me_HFE               PP ..................................................
+ENSMEUG00000008250           .-.----.-..-----.--Q---.---...-.----..------------
+#=GR ENSMEUG00000008250   PP ...................1..............................
+me_FCGRT                     .S.DH-P.N..GGGAF.YSRGTL.LVP...F.GDEA..LYSCVVQHPALQ
+#=GR me_FCGRT             PP .4.44.5.8..*****.******.***...*.****..*********997
+ENSMEUG00000010584           .I.ETRP.A..GDGSF.QKWAAV.DVT...S.GQED..KYTCRVQHKGLS
+#=GR ENSMEUG00000010584   PP .*.****.*..*****.******.***...*.****..************
+ENSMEUG00000004463           .I.ETRP.A..GDGTF.QKWAAV.EVT...S.GQEG..RYTCRVQHEGLS
+#=GR ENSMEUG00000004463   PP .*.****.*..*****.******.***...*.9999..************
+ENSMEUG00000003479           .I.ETRP.A..GDGTF.QKWAAV.EVT...S.GQEG..RYTCRVQHEGLP
+#=GR ENSMEUG00000003479   PP .*.****.*..*****.******.***...*.9999..************
+ENSMEUG00000008531           .I.ETRP.A..GDGTF.QKWAAV.DVT...S.GQEG..KYSCRIRHEGLS
+#=GR ENSMEUG00000008531   PP .*.****.*..*****.******.***...9.9999..9***********
+ENSMEUG00000004115           .D.VQP-.S..GDGTY.QTWVSI.DVH...I.EEAN..-YICHVEHQGRN
+#=GR ENSMEUG00000004115   PP .5.555..7..*****.******.***...*.9988...********988
+me_PROCR                     .-.----.-..-----.------.---...-.----..------------
+#=GR me_PROCR             PP ..................................................
+ENSMEUG00000003085           .I.ETRP.A..GDATF.QNWAAV.EVT...S.GQEG..RYTCRVQHEGLP
+#=GR ENSMEUG00000003085   PP .*.****.*..*****.******.***...*.9999..***********9
+ENSMEUG00000005831           .R.GLIKpS..GDGTY.QTWVST.DVH...I.EEAN..-YTCHVE-----
+#=GR ENSMEUG00000005831   PP .9.99998*..*****.******.***...*.9988...*****7.....
+xt_mhc1a                     .K.EILP.N..PDGSY.QLRATA.VVT...P.KEGD..SYACHVEHSSLE
+#=GR xt_mhc1a             PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000017938           .L.QILP.N..TDFTY.QTRVTI.TVA...P.EEMD..TYFCHVEHSSLE
+#=GR ENSXETG00000017938   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000009073           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000009073   PP .*.****.*..*****.******.***...*.****..************
+ENSXETG00000033941           .A.QILP.N..PDGTY.QIRVSV.GVT...L.DKNS..NYSCLVDHSSLE
+#=GR ENSXETG00000033941   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000009068           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000009068   PP .*.****.*..*****.******.***...*.****..***********9
+xt_XB-GENE-5873924           .K.EILP.N..PDGTY.QIRITL.TMQ...P.ADVD..SYSCHVDHSSVN
+#=GR xt_XB-GENE-5873924   PP .6.7777.9..*****.******.***...*.****..*********987
+ENSXETG00000032875           .A.QILP.N..PDGTY.QIRVSV.GVT...L.DKNS..NYSCLVDHSSLE
+#=GR ENSXETG00000032875   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000009076           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000009076   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000030073           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000030073   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000009064           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000009064   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000031629           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EEGA..TYSCHIDHSSLE
+#=GR ENSXETG00000031629   PP .*.****.*..*****.******.***...*.****..************
+ENSXETG00000009077           .A.QILP.N..PDGTY.QIRVSV.GVT...P.DKNS..NYSCLVDHNSLE
+#=GR ENSXETG00000009077   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000031111           .A.QILP.N..PDGTY.QIRVSV.EVT...P.EEGA..TYSCHVDHSSLA
+#=GR ENSXETG00000031111   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000030689           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHTDHSSLE
+#=GR ENSXETG00000030689   PP .*.****.*..*****.******.***...*.****..***********9
+xt_XB-GENE-5757686           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHVEHSSLE
+#=GR xt_XB-GENE-5757686   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000025015           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..NYSCHIDHSSLE
+#=GR ENSXETG00000025015   PP .*.****.*..*****.******.***...*.****..***********9
+xt_XB-GENE-5894693           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR xt_XB-GENE-5894693   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000033834           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EEGA..TYSCHIDHSSLE
+#=GR ENSXETG00000033834   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000033504           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000033504   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000034352           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EEGA..TYSCHIDHSSLE
+#=GR ENSXETG00000034352   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000032895           .A.QILP.N..PDGTY.QISV--.GVK...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000032895   PP .*.****.*..*****.**85...688...*.****..***********9
+ENSXETG00000033980           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000033980   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000009089           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHVDHSSLE
+#=GR ENSXETG00000009089   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000030785           .P.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLN
+#=GR ENSXETG00000030785   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000030515           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHIDHSSLE
+#=GR ENSXETG00000030515   PP .*.****.*..*****.******.***...*.****..***********9
+ENSXETG00000002125           .A.QILP.N..PDGTY.QIRVSV.GVT...P.EGGA..TYSCHVEHSSLE
+#=GR ENSXETG00000002125   PP .*.****.*..*****.******.***...*.****..***********9
+ENSTGUG00000017273           .G.GIVP.N..SDGTF.HTWARI.EAL...P.EEWE..QYRCKVDHPGML
+#=GR ENSTGUG00000017273   PP .*.****.*..*****.******.***...*.****..********9986
+ENSTGUG00000015195           .G.GIIP.N..SNGTF.HTWARA.EAL...P.GERE..QHWCRVEHPR--
+#=GR ENSTGUG00000015195   PP .*.****.*..*****.******.***...*.****..********75..
+ENSTGUG00000014985           .-.----.-..---S-.------.---...-.----..------------
+#=GR ENSTGUG00000014985   PP ..............3...................................
+ENSTGUG00000014179           .-.----.-..---D-.------.---...-.----..------------
+#=GR ENSTGUG00000014179   PP ..............1...................................
+ENSTGUG00000016646           .-.----.-..-----.A-----.---...-.----..------------
+#=GR ENSTGUG00000016646   PP .................1................................
+ENSTGUG00000014981           .-.----.-..-----.------.---...-.----..------------
+#=GR ENSTGUG00000014981   PP ..................................................
+ENSTGUG00000015460           .-.----.-..-S---.------.---...-.----..------------
+#=GR ENSTGUG00000015460   PP ............1.....................................
+ENSTGUG00000015564           .-.----.-..-----.A-----.---...-.----..------------
+#=GR ENSTGUG00000015564   PP .................2................................
+ENSTGUG00000015443           .-.----.-..---S-.------.---...-.----..------------
+#=GR ENSTGUG00000015443   PP ..............1...................................
+ENSTGUG00000003538           .S.TILP.N..ADLTY.QLRSVL.AVA...P.RDGH..SYVCRVRHRSLG
+#=GR ENSTGUG00000003538   PP .6.6677.*..*****.******.***...*.****..*********996
+dr_mhc1zba                   .T.GVRP.N..EDGTF.QLRKSI.NIY...E.DEKA..EYDCYVSHTTLK
+#=GR dr_mhc1zba           PP .7.7777.*..*****.******.***...*.****..************
+dr_mhc1zea                   .S.GVRP.N..PDGTF.QLRKST.NIY...-.-EKA..EYDCYVAHRTLK
+#=GR dr_mhc1zea           PP .7.7777.*..*****.****99.875......688..9***********
+dr_mhc1zca                   .S.SGVRpN..QDGTF.QLRKST.NIY...E.DEKA..EYDCYVNHRTLK
+#=GR dr_mhc1zca           PP .7.66666*..*****.******.***...*.****..************
+dr_mhc1zfa                   .T.GVRP.N..HDQTF.QLRKSV.EIE...Q.DETD..EYDCYMTHRTLK
+#=GR dr_mhc1zfa           PP .7.7777.9..*****.******.***...*.****..***********9
+dr_mhc1zaa__1                .T.GVRP.N..HDQTF.QLRKSV.EIK...E.DQID..EYDCHLTHRTLK
+#=GR dr_mhc1zaa__1        PP .6.6666.9..*****.******.***...*.****..************
+dr_DARE-ZE*0601              .S.TGVRpN..HDQTF.QLSKSV.EIK...E.DQID..EYDCSVSHRTFK
+#=GR dr_DARE-ZE*0601      PP .8.88877*..*****.******.***...*.****..***********9
+dr_mhc1uba                   .G.ELIP.N..EDGTY.QRTSTL.NVK...P.EEWKkdKFSCVVEHQSKT
+#=GR dr_mhc1uba           PP .*.****.*..*****.******.***...8.7765559*******9865
+dr_mhc1zaa__2                .S.TGVRpN..HDQTF.QLSKSV.EIK...E.DQID..NYDCSVSHRTFK
+#=GR dr_mhc1zaa__2        PP .8.88877*..*****.******.***...*.****..***********9
+dr_CABZ01031753.1            .R.ELKP.N..EDGTF.QRSSSL.HVS...Q.EDWKksLYTCVVEHQRMT
+#=GR dr_CABZ01031753.1    PP .*.****.*..*****.******.***...5.5544337*******9876
+dr_mhc1uca                   .G.ELLP.N..ADGTF.QKRSTL.NVK...P.EEWKnsKFSCVVEHQG--
+#=GR dr_mhc1uca           PP .*.****.*..*****.******.***...9.8887779*******98..
+dr_CABZ01031754.1            .G.EILP.N..EDGTF.QRTVTL.RVSl.qY.WRKE..QYTCVVRY----
+#=GR dr_CABZ01031754.1    PP .7.8888.*..*****.******.***9.94.5777..8*****86....
+dr_BX682558.1                .G.GELLpN..ADGTY.QMRKSV.ELSaeeQ.RERR..TYTCTVNHLSLD
+#=GR dr_BX682558.1        PP .8.77777*..*****.******.***7666.6667..**********98
+dr_zgc:113060                .G.GEILpN..GDGTY.QMRKSL.IVSeeeL.QKGH..KYNCTANYLNLD
+#=GR dr_zgc:113060        PP .9.88877*..*****.******.***9999.****..****98876665
+dr_CU571323.1                .G.GEILpN..GDGMY.QMRKSL.IVSkeeL.DEGH..EYTCTMKHLNLD
+#=GR dr_CU571323.1        PP .8.88877*..*****.******.***9999.9999..********9887
+dr_CR339041.1                .G.GDLLpN..GDGTY.QMRKSL.EIRa.eE.REKH..KYSCSVKHLSLD
+#=GR dr_CR339041.1        PP .9.99888*..*****.******.***5.44.5555..9*********98
+dr_BX572619.1                .G.GDLLpN..GDGTY.QMRKSL.EISa.eE.REKH..KYSCSAKHLKID
+#=GR dr_BX572619.1        PP .8.88877*..*****.******.***5.44.5555..9*******7665
+dr_si:ch211-147g22.1         .G.GDLLpN..GDGTY.QMRKSL.QIRa.eE.REKH..KYTCSAKHLSLD
+#=GR dr_si:ch211-147g22.1 PP .8.87777*..*****.******.***5.44.5555..9********998
+dr_CABZ01077449.1            .T.GTLP.H..TDGTF.QMTSYL.SLG...N.MTAH..GVTCEIEHLSID
+#=GR dr_CABZ01077449.1    PP .*.****.*..*****.******.***...9.9999..9*******8875
+dr_si:dkey-52p2.6            .G.GDLLpN..GDGTY.QMRKSL.EIRg.eE.REKH..KYTCSATHLSLD
+#=GR dr_si:dkey-52p2.6    PP .6.65555*..*****.******.***8.66.7777..**********99
+dr_si:ch211-147g22.2         .G.GDLLpN..GDGTY.QMRKSL.EIRa.eE.RQKH..KYSCSVKHLSLD
+#=GR dr_si:ch211-147g22.2 PP .8.87777*..*****.******.***6.55.6666..*********998
+dr_CR339041.2                .G.GDLLpN..GDGTY.QMRKSL.EIRa.eD.SEKH..KYTCSFKHL---
+#=GR dr_CR339041.2        PP .9.99988*..*****.******.***6.54.6666..9******94...
+dr_si:ch211-147g22.4         .G.GDLLpN..GDGTY.QMRKSL.EIRa.eE.RQKH..KYTCSIKHLGK-
+#=GR dr_si:ch211-147g22.4 PP .8.88777*..*****.******.***6.55.6666..********876.
+dr_BX572619.2                .G.GDLLpN..GDGTY.QMRKSL.EISa.eE.RQKH..KYSCSAKHLSLD
+#=GR dr_BX572619.2        PP .8.88877*..*****.******.***6.55.6666..*********998
+#=GC PP_cons                 .9.9999.*..*****.******.***...9.999*..*********999
+#=GC RF                      .x.xxxx.x..xxxxx.xxxxxx.xxx...x.xxxx..xxxxxxxxxxxx
+
+gg_BF1                       QP--
+#=GR gg_BF1               PP 97..
+gg_BFIV21                    QP--
+#=GR gg_BFIV21            PP 97..
+ENSGALG00000024340           QP--
+#=GR ENSGALG00000024340   PP 97..
+ENSGALG00000027293           QP--
+#=GR ENSGALG00000027293   PP 97..
+ENSGALG00000029093           QP--
+#=GR ENSGALG00000029093   PP 97..
+ENSGALG00000024348           QP--
+#=GR ENSGALG00000024348   PP 97..
+ENSGALG00000026292           QP--
+#=GR ENSGALG00000026292   PP 97..
+ENSGALG00000027445           QP--
+#=GR ENSGALG00000027445   PP 97..
+ENSGALG00000027944           ----
+#=GR ENSGALG00000027944   PP ....
+ENSGALG00000029079           ----
+#=GR ENSGALG00000029079   PP ....
+ENSGALG00000028268           QP--
+#=GR ENSGALG00000028268   PP 98..
+ENSGALG00000004617           ----
+#=GR ENSGALG00000004617   PP ....
+ENSGALG00000002614           QP--
+#=GR ENSGALG00000002614   PP 97..
+ENSGALG00000027955           QP--
+#=GR ENSGALG00000027955   PP 97..
+ENSGALG00000027693           QP--
+#=GR ENSGALG00000027693   PP 97..
+ENSGALG00000026466           QP--
+#=GR ENSGALG00000026466   PP 97..
+ENSGALG00000004772           QP--
+#=GR ENSGALG00000004772   PP 97..
+ENSGALG00000027431           ----
+#=GR ENSGALG00000027431   PP ....
+ENSGALG00000027045           ----
+#=GR ENSGALG00000027045   PP ....
+ENSGALG00000027123           ----
+#=GR ENSGALG00000027123   PP ....
+ENSGALG00000026145           ----
+#=GR ENSGALG00000026145   PP ....
+gg_CD1A1                     ----
+#=GR gg_CD1A1             PP ....
+bt_BOLA__1                   EPL-
+#=GR bt_BOLA__1           PP 997.
+bt_JSP.1                     EPL-
+#=GR bt_JSP.1             PP 997.
+bt_BOLA-NC                   GPL-
+#=GR bt_BOLA-NC           PP 886.
+bt_BOLA__3                   EPL-
+#=GR bt_BOLA__3           PP 997.
+ENSBTAG00000005146           EPL-
+#=GR ENSBTAG00000005146   PP 997.
+ENSBTAG00000007075           EPR-
+#=GR ENSBTAG00000007075   PP 986.
+ENSBTAG00000012208           EPL-
+#=GR ENSBTAG00000012208   PP 996.
+bt_BOLA__2                   EPL-
+#=GR bt_BOLA__2           PP 997.
+bt_BT.105339                 KPL-
+#=GR bt_BT.105339         PP 997.
+ENSBTAG00000008959           ----
+#=GR ENSBTAG00000008959   PP ....
+bt_AZGP1                     RPL-
+#=GR bt_AZGP1             PP 987.
+bt_MR1                       ----
+#=GR bt_MR1               PP ....
+ENSBTAG00000004815           HTL-
+#=GR ENSBTAG00000004815   PP 865.
+ENSBTAG00000038619           EPL-
+#=GR ENSBTAG00000038619   PP 997.
+bt_HFE                       QPL-
+#=GR bt_HFE               PP 997.
+bt_FCGRT                     QPL-
+#=GR bt_FCGRT             PP 997.
+ENSBTAG00000010166           ----
+#=GR ENSBTAG00000010166   PP ....
+ENSBTAG00000038891           ----
+#=GR ENSBTAG00000038891   PP ....
+ENSBTAG00000024751           ----
+#=GR ENSBTAG00000024751   PP ....
+ENSBTAG00000047902           ----
+#=GR ENSBTAG00000047902   PP ....
+ENSBTAG00000046595           ----
+#=GR ENSBTAG00000046595   PP ....
+ENSBTAG00000048114           ----
+#=GR ENSBTAG00000048114   PP ....
+bt_ULBP3__1                  ----
+#=GR bt_ULBP3__1          PP ....
+ENSBTAG00000001836           ----
+#=GR ENSBTAG00000001836   PP ....
+bt_ULBP3__2                  ----
+#=GR bt_ULBP3__2          PP ....
+ENSBTAG00000007238           ----
+#=GR ENSBTAG00000007238   PP ....
+ENSBTAG00000023970           ----
+#=GR ENSBTAG00000023970   PP ....
+bt_ULBP27                    ----
+#=GR bt_ULBP27            PP ....
+ENSBTAG00000036061           ----
+#=GR ENSBTAG00000036061   PP ....
+ENSBTAG00000039875           ----
+#=GR ENSBTAG00000039875   PP ....
+bt_RAET1G                    ----
+#=GR bt_RAET1G            PP ....
+bt_PROCR                     ----
+#=GR bt_PROCR             PP ....
+ENSBTAG00000039444           ----
+#=GR ENSBTAG00000039444   PP ....
+bt_CD1A__1                   ----
+#=GR bt_CD1A__1           PP ....
+bt_CD1E                      ----
+#=GR bt_CD1E              PP ....
+ENSBTAG00000039993           ----
+#=GR ENSBTAG00000039993   PP ....
+bt_CD1A__2                   ----
+#=GR bt_CD1A__2           PP ....
+ENSBTAG00000000963           ----
+#=GR ENSBTAG00000000963   PP ....
+ENSBTAG00000047776           ----
+#=GR ENSBTAG00000047776   PP ....
+bt_CD1D                      ----
+#=GR bt_CD1D              PP ....
+bt_CD1B5                     ----
+#=GR bt_CD1B5             PP ....
+ENSBTAG00000047988           ----
+#=GR ENSBTAG00000047988   PP ....
+bt_CD1B3                     ----
+#=GR bt_CD1B3             PP ....
+ENSBTAG00000038426           ----
+#=GR ENSBTAG00000038426   PP ....
+ENSBTAG00000039189           ----
+#=GR ENSBTAG00000039189   PP ....
+ENSSHAG00000000117           EPL-
+#=GR ENSSHAG00000000117   PP 997.
+sh_SAHA-I                    EPL-
+#=GR sh_SAHA-I            PP 996.
+ENSSHAG00000002942           EPL-
+#=GR ENSSHAG00000002942   PP 997.
+ENSSHAG00000001982           APL-
+#=GR ENSSHAG00000001982   PP 886.
+sh_MR1                       ----
+#=GR sh_MR1               PP ....
+sh_AZGP1                     E---
+#=GR sh_AZGP1             PP 7...
+sh_FCGRT                     ESI-
+#=GR sh_FCGRT             PP 976.
+ENSSHAG00000015612           QS--
+#=GR ENSSHAG00000015612   PP 75..
+ENSSHAG00000017227           ----
+#=GR ENSSHAG00000017227   PP ....
+ENSSHAG00000004293           TP--
+#=GR ENSSHAG00000004293   PP 87..
+sh_HFE                       NP--
+#=GR sh_HFE               PP 65..
+ENSSHAG00000003889           ----
+#=GR ENSSHAG00000003889   PP ....
+ENSSHAG00000004579           TPV-
+#=GR ENSSHAG00000004579   PP 886.
+ENSSHAG00000003654           ----
+#=GR ENSSHAG00000003654   PP ....
+ENSSHAG00000004299           TP--
+#=GR ENSSHAG00000004299   PP 87..
+ENSSHAG00000007260           TP--
+#=GR ENSSHAG00000007260   PP 87..
+ENSSHAG00000002090           RPV-
+#=GR ENSSHAG00000002090   PP 886.
+ENSSHAG00000003088           KP--
+#=GR ENSSHAG00000003088   PP 98..
+sh_PROCR                     ----
+#=GR sh_PROCR             PP ....
+ENSSHAG00000006681           KPT-
+#=GR ENSSHAG00000006681   PP 987.
+ENSSHAG00000007033           ----
+#=GR ENSSHAG00000007033   PP ....
+ENSSHAG00000007630           ----
+#=GR ENSSHAG00000007630   PP ....
+cf_DLA-12                    EPV-
+#=GR cf_DLA-12            PP 997.
+cf_DLA88__2                  EPV-
+#=GR cf_DLA88__2          PP 997.
+cf_DLA88__1                  EPV-
+#=GR cf_DLA88__1          PP 997.
+cf_DLA-64                    EPV-
+#=GR cf_DLA-64            PP 997.
+cf_DLA-79                    KPIT
+#=GR cf_DLA-79            PP 9985
+cf_AZGP1                     QPL-
+#=GR cf_AZGP1             PP 997.
+cf_FCGRT                     QPL-
+#=GR cf_FCGRT             PP 997.
+cf_HFE                       QPL-
+#=GR cf_HFE               PP 997.
+cf_RAET1E                    ----
+#=GR cf_RAET1E            PP ....
+cf_CD1A8                     ----
+#=GR cf_CD1A8             PP ....
+ENSCAFG00000023735           ----
+#=GR ENSCAFG00000023735   PP ....
+cf_CD1D__1                   ----
+#=GR cf_CD1D__1           PP ....
+cf_CD1D__2                   ----
+#=GR cf_CD1D__2           PP ....
+cf_CD1E                      ----
+#=GR cf_CD1E              PP ....
+cf_CD1A6                     ----
+#=GR cf_CD1A6             PP ....
+cf_CD1B                      ----
+#=GR cf_CD1B              PP ....
+hs_HLA-B                     KPL-
+#=GR hs_HLA-B             PP 997.
+hs_HLA-A                     KPL-
+#=GR hs_HLA-A             PP 997.
+hs_HLA-C                     EPL-
+#=GR hs_HLA-C             PP 997.
+hs_HLA-G                     EPL-
+#=GR hs_HLA-G             PP 985.
+hs_HLA-E                     EPVT
+#=GR hs_HLA-E             PP 9975
+hs_HLA-F                     QPL-
+#=GR hs_HLA-F             PP 996.
+hs_AZGP1                     QPL-
+#=GR hs_AZGP1             PP 986.
+hs_MR1                       ----
+#=GR hs_MR1               PP ....
+hs_HFE                       QPL-
+#=GR hs_HFE               PP 986.
+hs_FCGRT                     QPL-
+#=GR hs_FCGRT             PP 986.
+hs_MICA                      S---
+#=GR hs_MICA              PP 5...
+hs_MICB                      ----
+#=GR hs_MICB              PP ....
+hs_ULBP2                     ----
+#=GR hs_ULBP2             PP ....
+hs_ULBP3                     ----
+#=GR hs_ULBP3             PP ....
+hs_RAET1L                    ----
+#=GR hs_RAET1L            PP ....
+hs_ULBP1                     ----
+#=GR hs_ULBP1             PP ....
+hs_RAET1G                    ----
+#=GR hs_RAET1G            PP ....
+hs_RAET1E                    ----
+#=GR hs_RAET1E            PP ....
+hs_CD1A                      ----
+#=GR hs_CD1A              PP ....
+hs_PROCR                     ----
+#=GR hs_PROCR             PP ....
+hs_CD1D                      ----
+#=GR hs_CD1D              PP ....
+hs_CD1C                      ----
+#=GR hs_CD1C              PP ....
+hs_CD1B                      ----
+#=GR hs_CD1B              PP ....
+hs_CD1E                      ----
+#=GR hs_CD1E              PP ....
+ENSACAG00000011070           NPV-
+#=GR ENSACAG00000011070   PP 986.
+ENSACAG00000006478           NPV-
+#=GR ENSACAG00000006478   PP 986.
+ENSACAG00000017226           NPV-
+#=GR ENSACAG00000017226   PP 986.
+ENSACAG00000006674           NPV-
+#=GR ENSACAG00000006674   PP 986.
+ENSACAG00000000562           NP--
+#=GR ENSACAG00000000562   PP 77..
+ENSACAG00000024528           NPV-
+#=GR ENSACAG00000024528   PP 986.
+ENSACAG00000023667           SPV-
+#=GR ENSACAG00000023667   PP 986.
+ENSACAG00000027871           SPV-
+#=GR ENSACAG00000027871   PP 986.
+ENSACAG00000022657           NP--
+#=GR ENSACAG00000022657   PP 77..
+ENSACAG00000022634           SPV-
+#=GR ENSACAG00000022634   PP 986.
+ENSACAG00000011968           TPM-
+#=GR ENSACAG00000011968   PP 886.
+ENSACAG00000006498           EPL-
+#=GR ENSACAG00000006498   PP 986.
+ENSACAG00000029516           E---
+#=GR ENSACAG00000029516   PP 6...
+ENSACAG00000024638           EPL-
+#=GR ENSACAG00000024638   PP 986.
+ENSACAG00000024081           ----
+#=GR ENSACAG00000024081   PP ....
+ENSACAG00000025947           ----
+#=GR ENSACAG00000025947   PP ....
+ENSACAG00000003088           KPV-
+#=GR ENSACAG00000003088   PP 875.
+ENSACAG00000006471           EA--
+#=GR ENSACAG00000006471   PP 75..
+ENSACAG00000024309           KPV-
+#=GR ENSACAG00000024309   PP 875.
+ENSACAG00000003922           EPL-
+#=GR ENSACAG00000003922   PP 986.
+ENSACAG00000000468           KPI-
+#=GR ENSACAG00000000468   PP 997.
+ENSACAG00000024939           ----
+#=GR ENSACAG00000024939   PP ....
+ENSACAG00000025539           ----
+#=GR ENSACAG00000025539   PP ....
+ENSACAG00000011395           ----
+#=GR ENSACAG00000011395   PP ....
+mm_H2-Q10                    EPL-
+#=GR mm_H2-Q10            PP 997.
+mm_Gm8909                    EPL-
+#=GR mm_Gm8909            PP 997.
+mm_H2-Q7                     EPL-
+#=GR mm_H2-Q7             PP 997.
+mm_H2-K1                     EPL-
+#=GR mm_H2-K1             PP 997.
+mm_H2-D1                     EPL-
+#=GR mm_H2-D1             PP 997.
+mm_H2-Q4                     EPL-
+#=GR mm_H2-Q4             PP 997.
+mm_H2-Q6                     EPL-
+#=GR mm_H2-Q6             PP 997.
+mm_H2-T23                    EPL-
+#=GR mm_H2-T23            PP 997.
+mm_H2-Q2                     EPL-
+#=GR mm_H2-Q2             PP 997.
+mm_H2-Q1                     EPL-
+#=GR mm_H2-Q1             PP 997.
+mm_H2-Bl                     EPL-
+#=GR mm_H2-Bl             PP 997.
+mm_H2-T3                     EPL-
+#=GR mm_H2-T3             PP 997.
+mm_Gm7030                    ----
+#=GR mm_Gm7030            PP ....
+mm_Gm11127                   EPL-
+#=GR mm_Gm11127           PP 997.
+mm_H2-M2                     EPL-
+#=GR mm_H2-M2             PP 997.
+mm_H2-M3                     EPL-
+#=GR mm_H2-M3             PP 986.
+mm_H2-M5                     QPL-
+#=GR mm_H2-M5             PP 996.
+mm_Azgp1                     QS--
+#=GR mm_Azgp1             PP 75..
+mm_Mr1                       ----
+#=GR mm_Mr1               PP ....
+mm_Fcgrt                     QPL-
+#=GR mm_Fcgrt             PP 997.
+mm_H2-M10.1                  EPL-
+#=GR mm_H2-M10.1          PP 997.
+mm_H2-M10.3                  EPL-
+#=GR mm_H2-M10.3          PP 997.
+mm_H2-M10.2                  EPL-
+#=GR mm_H2-M10.2          PP 997.
+mm_H2-T10                    EPL-
+#=GR mm_H2-T10            PP 997.
+mm_H2-T22                    EPL-
+#=GR mm_H2-T22            PP 996.
+mm_H2-M10.6                  GPL-
+#=GR mm_H2-M10.6          PP 876.
+mm_H2-M1                     EPIT
+#=GR mm_H2-M1             PP *985
+mm_H2-T24                    QPL-
+#=GR mm_H2-T24            PP 996.
+mm_Hfe                       QPL-
+#=GR mm_Hfe               PP 997.
+mm_H2-M10.4                  GPL-
+#=GR mm_H2-M10.4          PP 876.
+mm_H2-M9                     EPVT
+#=GR mm_H2-M9             PP 9975
+mm_H2-M10.5                  EPL-
+#=GR mm_H2-M10.5          PP 996.
+mm_H2-M11                    EPIT
+#=GR mm_H2-M11            PP *985
+mm_Mill2                     ----
+#=GR mm_Mill2             PP ....
+mm_Mill1                     ----
+#=GR mm_Mill1             PP ....
+mm_Cd1d1                     ----
+#=GR mm_Cd1d1             PP ....
+mm_Cd1d2                     ----
+#=GR mm_Cd1d2             PP ....
+ENSMODG00000010596           QPL-
+#=GR ENSMODG00000010596   PP 986.
+md_MODO-UC                   QPL-
+#=GR md_MODO-UC           PP 986.
+md_MODO-UB                   QPL-
+#=GR md_MODO-UB           PP 986.
+md_MHC-I                     QPL-
+#=GR md_MHC-I             PP 986.
+ENSMODG00000014839           QPL-
+#=GR ENSMODG00000014839   PP 986.
+ENSMODG00000014336           QPL-
+#=GR ENSMODG00000014336   PP 986.
+md_MODO-UE                   EPL-
+#=GR md_MODO-UE           PP 985.
+md_MR1                       ----
+#=GR md_MR1               PP ....
+md_AZGP1                     ----
+#=GR md_AZGP1             PP ....
+md_HFE                       QPL-
+#=GR md_HFE               PP 986.
+md_MIC-like                  ----
+#=GR md_MIC-like          PP ....
+md_FCGRT                     TPL-
+#=GR md_FCGRT             PP 886.
+md_MILL-LIKE                 Q---
+#=GR md_MILL-LIKE         PP 6...
+ENSMODG00000015810           ----
+#=GR ENSMODG00000015810   PP ....
+ENSMODG00000015798           ----
+#=GR ENSMODG00000015798   PP ....
+ENSMODG00000028158           ----
+#=GR ENSMODG00000028158   PP ....
+md_MODO-UG                   ----
+#=GR md_MODO-UG           PP ....
+ENSMODG00000011424           TP--
+#=GR ENSMODG00000011424   PP 77..
+ENSMODG00000024063           ----
+#=GR ENSMODG00000024063   PP ....
+ENSMODG00000023068           TP--
+#=GR ENSMODG00000023068   PP 66..
+ENSMODG00000023744           ----
+#=GR ENSMODG00000023744   PP ....
+ENSMODG00000029679           ----
+#=GR ENSMODG00000029679   PP ....
+ENSMODG00000011403           AP--
+#=GR ENSMODG00000011403   PP 87..
+ENSMODG00000027380           ----
+#=GR ENSMODG00000027380   PP ....
+ENSMODG00000011316           SP--
+#=GR ENSMODG00000011316   PP 88..
+ENSMODG00000011387           SP--
+#=GR ENSMODG00000011387   PP 88..
+ENSMODG00000011414           AP--
+#=GR ENSMODG00000011414   PP 87..
+ENSOANG00000003172           QPL-
+#=GR ENSOANG00000003172   PP 986.
+ENSOANG00000005224           NPL-
+#=GR ENSOANG00000005224   PP 885.
+ENSOANG00000001863           ----
+#=GR ENSOANG00000001863   PP ....
+ENSOANG00000003581           RPL-
+#=GR ENSOANG00000003581   PP 986.
+ENSOANG00000008306           ----
+#=GR ENSOANG00000008306   PP ....
+ENSOANG00000015040           ----
+#=GR ENSOANG00000015040   PP ....
+ENSOANG00000001818           A---
+#=GR ENSOANG00000001818   PP 4...
+ENSOANG00000003398           QPL-
+#=GR ENSOANG00000003398   PP 986.
+ENSOANG00000029890           ----
+#=GR ENSOANG00000029890   PP ....
+ENSOANG00000004202           ----
+#=GR ENSOANG00000004202   PP ....
+ENSOANG00000002636           QPL-
+#=GR ENSOANG00000002636   PP 985.
+ENSOANG00000022269           ----
+#=GR ENSOANG00000022269   PP ....
+ENSOANG00000012222           VP--
+#=GR ENSOANG00000012222   PP 66..
+ENSOANG00000015154           GP--
+#=GR ENSOANG00000015154   PP 76..
+ENSOANG00000007216           VP--
+#=GR ENSOANG00000007216   PP 55..
+ENSOANG00000021638           LP--
+#=GR ENSOANG00000021638   PP 66..
+ENSOANG00000022751           VPT-
+#=GR ENSOANG00000022751   PP 875.
+tn_mhc1zea                   ----
+#=GR tn_mhc1zea           PP ....
+ENSTNIG00000001085           ----
+#=GR ENSTNIG00000001085   PP ....
+ENSTNIG00000005106           ----
+#=GR ENSTNIG00000005106   PP ....
+ENSTNIG00000001016           ----
+#=GR ENSTNIG00000001016   PP ....
+ENSTNIG00000003024           ----
+#=GR ENSTNIG00000003024   PP ....
+ENSTNIG00000009992           ----
+#=GR ENSTNIG00000009992   PP ....
+ENSTNIG00000000474           ----
+#=GR ENSTNIG00000000474   PP ....
+ENSTNIG00000004145           ----
+#=GR ENSTNIG00000004145   PP ....
+ENSTNIG00000001973           ----
+#=GR ENSTNIG00000001973   PP ....
+ENSTNIG00000004925           ----
+#=GR ENSTNIG00000004925   PP ....
+ENSMGAG00000005937           ----
+#=GR ENSMGAG00000005937   PP ....
+ENSMGAG00000006286           QP--
+#=GR ENSMGAG00000006286   PP 98..
+ENSMGAG00000009766           QP--
+#=GR ENSMGAG00000009766   PP 97..
+ENSMGAG00000016965           ----
+#=GR ENSMGAG00000016965   PP ....
+ENSMGAG00000009608           ----
+#=GR ENSMGAG00000009608   PP ....
+mg_PROCR                     ----
+#=GR mg_PROCR             PP ....
+ENSMEUG00000016222           EPL-
+#=GR ENSMEUG00000016222   PP 997.
+ENSMEUG00000012186           EPL-
+#=GR ENSMEUG00000012186   PP 997.
+ENSMEUG00000007887           EPL-
+#=GR ENSMEUG00000007887   PP 986.
+ENSMEUG00000002955           ----
+#=GR ENSMEUG00000002955   PP ....
+ENSMEUG00000001234           EPL-
+#=GR ENSMEUG00000001234   PP 985.
+ENSMEUG00000012694           EPL-
+#=GR ENSMEUG00000012694   PP 986.
+me_HFE                       ----
+#=GR me_HFE               PP ....
+ENSMEUG00000008250           ----
+#=GR ENSMEUG00000008250   PP ....
+me_FCGRT                     ----
+#=GR me_FCGRT             PP ....
+ENSMEUG00000010584           EPL-
+#=GR ENSMEUG00000010584   PP 997.
+ENSMEUG00000004463           EPL-
+#=GR ENSMEUG00000004463   PP 997.
+ENSMEUG00000003479           EPL-
+#=GR ENSMEUG00000003479   PP 997.
+ENSMEUG00000008531           EPL-
+#=GR ENSMEUG00000008531   PP 997.
+ENSMEUG00000004115           QT--
+#=GR ENSMEUG00000004115   PP 76..
+me_PROCR                     ----
+#=GR me_PROCR             PP ....
+ENSMEUG00000003085           E---
+#=GR ENSMEUG00000003085   PP 7...
+ENSMEUG00000005831           ----
+#=GR ENSMEUG00000005831   PP ....
+xt_mhc1a                     EK--
+#=GR xt_mhc1a             PP 86..
+ENSXETG00000017938           KP--
+#=GR ENSXETG00000017938   PP 88..
+ENSXETG00000009073           KPL-
+#=GR ENSXETG00000009073   PP 986.
+ENSXETG00000033941           TPM-
+#=GR ENSXETG00000033941   PP 886.
+ENSXETG00000009068           KAI-
+#=GR ENSXETG00000009068   PP 876.
+xt_XB-GENE-5873924           ----
+#=GR xt_XB-GENE-5873924   PP ....
+ENSXETG00000032875           TP--
+#=GR ENSXETG00000032875   PP 87..
+ENSXETG00000009076           KA--
+#=GR ENSXETG00000009076   PP 75..
+ENSXETG00000030073           KT--
+#=GR ENSXETG00000030073   PP 75..
+ENSXETG00000009064           KT--
+#=GR ENSXETG00000009064   PP 75..
+ENSXETG00000031629           KPL-
+#=GR ENSXETG00000031629   PP 986.
+ENSXETG00000009077           TPI-
+#=GR ENSXETG00000009077   PP 987.
+ENSXETG00000031111           KPL-
+#=GR ENSXETG00000031111   PP 985.
+ENSXETG00000030689           KT--
+#=GR ENSXETG00000030689   PP 75..
+xt_XB-GENE-5757686           KT--
+#=GR xt_XB-GENE-5757686   PP 75..
+ENSXETG00000025015           NPM-
+#=GR ENSXETG00000025015   PP 986.
+xt_XB-GENE-5894693           KA--
+#=GR xt_XB-GENE-5894693   PP 75..
+ENSXETG00000033834           KT--
+#=GR ENSXETG00000033834   PP 75..
+ENSXETG00000033504           NPL-
+#=GR ENSXETG00000033504   PP 986.
+ENSXETG00000034352           NPL-
+#=GR ENSXETG00000034352   PP 986.
+ENSXETG00000032895           KA--
+#=GR ENSXETG00000032895   PP 75..
+ENSXETG00000033980           KT--
+#=GR ENSXETG00000033980   PP 75..
+ENSXETG00000009089           KA--
+#=GR ENSXETG00000009089   PP 75..
+ENSXETG00000030785           DT--
+#=GR ENSXETG00000030785   PP 65..
+ENSXETG00000030515           KT--
+#=GR ENSXETG00000030515   PP 75..
+ENSXETG00000002125           KT--
+#=GR ENSXETG00000002125   PP 75..
+ENSTGUG00000017273           E---
+#=GR ENSTGUG00000017273   PP 6...
+ENSTGUG00000015195           ----
+#=GR ENSTGUG00000015195   PP ....
+ENSTGUG00000014985           ----
+#=GR ENSTGUG00000014985   PP ....
+ENSTGUG00000014179           ----
+#=GR ENSTGUG00000014179   PP ....
+ENSTGUG00000016646           ----
+#=GR ENSTGUG00000016646   PP ....
+ENSTGUG00000014981           ----
+#=GR ENSTGUG00000014981   PP ....
+ENSTGUG00000015460           ----
+#=GR ENSTGUG00000015460   PP ....
+ENSTGUG00000015564           ----
+#=GR ENSTGUG00000015564   PP ....
+ENSTGUG00000015443           ----
+#=GR ENSTGUG00000015443   PP ....
+ENSTGUG00000003538           ----
+#=GR ENSTGUG00000003538   PP ....
+dr_mhc1zba                   EPI-
+#=GR dr_mhc1zba           PP 997.
+dr_mhc1zea                   EPI-
+#=GR dr_mhc1zea           PP 997.
+dr_mhc1zca                   EPI-
+#=GR dr_mhc1zca           PP 997.
+dr_mhc1zfa                   GPV-
+#=GR dr_mhc1zfa           PP 775.
+dr_mhc1zaa__1                NPI-
+#=GR dr_mhc1zaa__1        PP 997.
+dr_DARE-ZE*0601              QPI-
+#=GR dr_DARE-ZE*0601      PP 997.
+dr_mhc1uba                   ----
+#=GR dr_mhc1uba           PP ....
+dr_mhc1zaa__2                QPI-
+#=GR dr_mhc1zaa__2        PP 997.
+dr_CABZ01031753.1            ----
+#=GR dr_CABZ01031753.1    PP ....
+dr_mhc1uca                   ----
+#=GR dr_mhc1uca           PP ....
+dr_CABZ01031754.1            ----
+#=GR dr_CABZ01031754.1    PP ....
+dr_BX682558.1                NK--
+#=GR dr_BX682558.1        PP 75..
+dr_zgc:113060                ----
+#=GR dr_zgc:113060        PP ....
+dr_CU571323.1                NK--
+#=GR dr_CU571323.1        PP 65..
+dr_CR339041.1                NK--
+#=GR dr_CR339041.1        PP 75..
+dr_BX572619.1                ----
+#=GR dr_BX572619.1        PP ....
+dr_si:ch211-147g22.1         NK--
+#=GR dr_si:ch211-147g22.1 PP 75..
+dr_CABZ01077449.1            ----
+#=GR dr_CABZ01077449.1    PP ....
+dr_si:dkey-52p2.6            KK--
+#=GR dr_si:dkey-52p2.6    PP 76..
+dr_si:ch211-147g22.2         NK--
+#=GR dr_si:ch211-147g22.2 PP 65..
+dr_CR339041.2                ----
+#=GR dr_CR339041.2        PP ....
+dr_si:ch211-147g22.4         ----
+#=GR dr_si:ch211-147g22.4 PP ....
+dr_BX572619.2                NK--
+#=GR dr_BX572619.2        PP 65..
+#=GC PP_cons                 8865
+#=GC RF                      xxxx
+//

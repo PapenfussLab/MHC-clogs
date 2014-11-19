@@ -1,0 +1,7 @@
+C1-set : PF07654.5 (Immunoglobulin C1-set domain)
+MHC_I_C : PF06623.5 (MHC_I C-terminus)
+MHC_I : PF00129.8 (Class I histocompatibility antigen, domains alpha 1 and 2)
+MHC_II_alpha : PF00993.11 (Class II histocompatibility antigen, alpha domain)
+MHC_II_beta : PF00969.10 (Class II histocompatibility antigen, beta domain)
+supfam_mhc : SUPFAM 0045513 (MHC antigen-recognition domain)
+supfam_ig : SUPFAM 0045660 (Immunoglobulin)
