@@ -7,7 +7,7 @@ count_protein_results.py <input-dir>
 import os
 import glob
 from argparse import ArgumentParser
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 
 
 parser = ArgumentParser()

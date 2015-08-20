@@ -5,7 +5,7 @@ rename_seqs.py
 """
 
 from argparse import ArgumentParser
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 
 
 parser = ArgumentParser()

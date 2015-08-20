@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from mungo.fasta import FastaReader
+from mungolite.fasta import FastaReader
 
 
 input_file = FastaReader("output/all.fa")

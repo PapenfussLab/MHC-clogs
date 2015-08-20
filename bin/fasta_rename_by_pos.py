@@ -5,7 +5,7 @@ fasta_rename_by_pos.py
 """
 
 from argparse import ArgumentParser
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 from srt.intervals import GenomeIntersector
 
 

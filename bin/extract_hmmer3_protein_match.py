@@ -17,7 +17,7 @@ To do:
 import os
 from argparse import ArgumentParser
 import mhc.proteintools3 as pt
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 from mhc.data import *
 
 

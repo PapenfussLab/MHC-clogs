@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 
 
 filenames = [

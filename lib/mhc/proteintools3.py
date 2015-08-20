@@ -7,7 +7,7 @@ import string
 from mhc.data import *
 from mhc.biomart import *
 from mhc.hmmer3 import *
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 
 
 class Protein:

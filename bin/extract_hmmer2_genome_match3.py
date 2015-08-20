@@ -12,8 +12,8 @@ import os
 import sys
 from argparse import ArgumentParser
 import numpy
-from mungo.sequence import translate
-from mungo.fasta import FastaFile
+from mungolite.sequence import translate
+from mungolite.fasta import FastaFile
 from mhc.data import *
 from mhc.hmmer import *
 from mhc.biomart import *

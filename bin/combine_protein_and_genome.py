@@ -5,7 +5,7 @@ combine_protein_and_genome.py
 """
 
 from mhc.data import *
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 
 
 def extract_geneid(header):

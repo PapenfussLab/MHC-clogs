@@ -18,7 +18,7 @@ import os
 from argparse import ArgumentParser
 from mhc.data import *
 from mhc.proteintools import *
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 
 
 def is_weird(protein):

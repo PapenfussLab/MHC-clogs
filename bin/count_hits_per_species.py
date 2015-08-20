@@ -5,7 +5,7 @@ count_hits_per_species.py
 """
 
 import os
-from mungo.fasta import FastaFile
+from mungolite.fasta import FastaFile
 from mhc.data import *
 
 

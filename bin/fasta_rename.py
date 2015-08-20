@@ -4,9 +4,10 @@
 rename_fasta.py
 """
 
-from mungo.fasta import FastaFile
-
+from mungolite.fasta import FastaFile
 from argparse import ArgumentParser
+
+
 parser = ArgumentParser()
 parser.add_argument("input_filename", type=str, help="Input filename")
 parser.add_argument("output_filename", type=str, help="Output filename")

@@ -9,9 +9,10 @@ Date: Fri Mar 30 12:58:58 EST 2007
 """
 
 import os, sys
-from mungo.fasta import FastaFile
-
+from mungolite.fasta import FastaFile
 from optparse import OptionParser
+
+
 usage = "%prog [-b <block_size>] <input_file1> [<input_file2> ...] <output_file>"
 parser = OptionParser(usage=usage, version="%prog - Version 1")
 parser.add_option("-b", "--blocksize", action="store", type="int", 
